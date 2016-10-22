@@ -1,0 +1,32 @@
+[
+    {
+        "city": "Cheju",
+        "area_code": "64",
+        "dialing_code": "+82 64"
+    },
+    {
+        "city": "Incheon",
+        "area_code": "32",
+        "dialing_code": "+82 32"
+    },
+    {
+        "city": "Kwangju",
+        "area_code": "62",
+        "dialing_code": "+82 62"
+    },
+    {
+        "city": "Pyong Yang",
+        "area_code": "2",
+        "dialing_code": "+850 2"
+    },
+    {
+        "city": "Seoul",
+        "area_code": "2",
+        "dialing_code": "+82 2"
+    },
+    {
+        "city": "Ulsan",
+        "area_code": "52",
+        "dialing_code": "+82 52"
+    }
+]

@@ -1,0 +1,37 @@
+{
+  "name": "dialocodes",
+  "version": "1.0.0",
+  "description": "Deal codes by city and country",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Laboratory/dealcodes.git"
+  },
+  "keywords": [
+    "phones",
+    "country codes",
+    "area codes",
+    "city phone codes",
+    "dial codes"
+  ],
+  "author": "Vitaly Nikitin (vit.nikitin@gmail.com)",
+  "license": "ISC",
+  "dependencies": {
+    "country-mapper": "^1.0.6"
+  },
+  "devDependencies": {
+    "async": "^2.1.2",
+    "chai": "^3.5.0",
+    "cheerio": "^0.22.0",
+    "csvtojson": "^1.0.3",
+    "encoding": "^0.1.12",
+    "fs-path": "0.0.22",
+    "lodash": "^4.16.4",
+    "mocha": "^3.0.2",
+    "request": "^2.75.0",
+    "string": "^3.3.3"
+  }
+}

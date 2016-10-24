@@ -8,7 +8,7 @@ Area codes in the best in the class package will help you to complete a local ph
 
 ## Installation
 
-Via [npm](https://www.npmjs.com/package/dealcodes):
+Via [npm](https://www.npmjs.com/package/dialcodes):
 
     npm install dealcodes
 

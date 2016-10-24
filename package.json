@@ -1,5 +1,5 @@
 {
-  "name": "dialocodes",
+  "name": "dialcodes",
   "version": "1.0.0",
   "description": "Deal codes by city and country",
   "main": "index.js",

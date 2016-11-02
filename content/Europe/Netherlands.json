@@ -35,11 +35,6 @@
         "dialing_code": "+31 76"
     },
     {
-        "city": "de Meern",
-        "area_code": "30",
-        "dialing_code": "+31 30"
-    },
-    {
         "city": "Delft",
         "area_code": "15",
         "dialing_code": "+31 15"
@@ -218,5 +213,10 @@
         "city": "Zwolle",
         "area_code": "38",
         "dialing_code": "+31 38"
+    },
+    {
+        "city": "de Meern",
+        "area_code": "30",
+        "dialing_code": "+31 30"
     }
 ]

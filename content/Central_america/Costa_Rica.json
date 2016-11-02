@@ -5,6 +5,11 @@
         "dialing_code": "+506 719"
     },
     {
+        "city": "San Jose",
+        "area_code": "",
+        "dialing_code": "+506"
+    },
+    {
         "city": "San José",
         "area_code": "",
         "dialing_code": "+506"

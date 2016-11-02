@@ -20,6 +20,21 @@
         "dialing_code": "+36 84"
     },
     {
+        "city": "Bekescsaba",
+        "area_code": "66",
+        "dialing_code": "+36 66"
+    },
+    {
+        "city": "Berettyoujfalu",
+        "area_code": "54",
+        "dialing_code": "+36 54"
+    },
+    {
+        "city": "Berettyyyjfalu",
+        "area_code": "54",
+        "dialing_code": "+36 54"
+    },
+    {
         "city": "Berettyóújfalu",
         "area_code": "54",
         "dialing_code": "+36 54"
@@ -28,6 +43,16 @@
         "city": "Berettyýýjfalu",
         "area_code": "54",
         "dialing_code": "+36 54"
+    },
+    {
+        "city": "Biatorbagy",
+        "area_code": "23",
+        "dialing_code": "+36 23"
+    },
+    {
+        "city": "Biatorbygy",
+        "area_code": "23",
+        "dialing_code": "+36 23"
     },
     {
         "city": "Biatorbágy",
@@ -50,6 +75,11 @@
         "dialing_code": "+36 1"
     },
     {
+        "city": "Bykyscsaba",
+        "area_code": "66",
+        "dialing_code": "+36 66"
+    },
+    {
         "city": "Békéscsaba",
         "area_code": "66",
         "dialing_code": "+36 66"
@@ -58,6 +88,16 @@
         "city": "Býkýscsaba",
         "area_code": "66",
         "dialing_code": "+36 66"
+    },
+    {
+        "city": "Cegled",
+        "area_code": "53",
+        "dialing_code": "+36 53"
+    },
+    {
+        "city": "Ceglyd",
+        "area_code": "53",
+        "dialing_code": "+36 53"
     },
     {
         "city": "Cegléd",
@@ -78,6 +118,21 @@
         "city": "Dorgicse",
         "area_code": "80",
         "dialing_code": "+36 80"
+    },
+    {
+        "city": "Dunaujvaros",
+        "area_code": "25",
+        "dialing_code": "+36 25"
+    },
+    {
+        "city": "Dunaujvarosi",
+        "area_code": "25",
+        "dialing_code": "+36 25"
+    },
+    {
+        "city": "Dunayjvyros",
+        "area_code": "25",
+        "dialing_code": "+36 25"
     },
     {
         "city": "Dunaújváros",
@@ -110,9 +165,29 @@
         "dialing_code": "+36 99"
     },
     {
+        "city": "Godollo",
+        "area_code": "28",
+        "dialing_code": "+36 28"
+    },
+    {
+        "city": "Gydyllo",
+        "area_code": "28",
+        "dialing_code": "+36 28"
+    },
+    {
+        "city": "Gyongyos",
+        "area_code": "37",
+        "dialing_code": "+36 37"
+    },
+    {
         "city": "Gyor",
         "area_code": "96",
         "dialing_code": "+36 96"
+    },
+    {
+        "city": "Gyyngyys",
+        "area_code": "37",
+        "dialing_code": "+36 37"
     },
     {
         "city": "Gyöngyös",
@@ -140,6 +215,16 @@
         "dialing_code": "+36 28"
     },
     {
+        "city": "Jaszbereny",
+        "area_code": "57",
+        "dialing_code": "+36 57"
+    },
+    {
+        "city": "Jyszberyny",
+        "area_code": "57",
+        "dialing_code": "+36 57"
+    },
+    {
         "city": "Jászberény",
         "area_code": "57",
         "dialing_code": "+36 57"
@@ -148,6 +233,16 @@
         "city": "Jýszberýny",
         "area_code": "57",
         "dialing_code": "+36 57"
+    },
+    {
+        "city": "Kaposvar",
+        "area_code": "82",
+        "dialing_code": "+36 82"
+    },
+    {
+        "city": "Kaposvyr",
+        "area_code": "82",
+        "dialing_code": "+36 82"
     },
     {
         "city": "Kaposvár",
@@ -170,6 +265,16 @@
         "dialing_code": "+36 48"
     },
     {
+        "city": "Kecskemet",
+        "area_code": "76",
+        "dialing_code": "+36 76"
+    },
+    {
+        "city": "Kecskemyt",
+        "area_code": "76",
+        "dialing_code": "+36 76"
+    },
+    {
         "city": "Kecskemét",
         "area_code": "76",
         "dialing_code": "+36 76"
@@ -185,6 +290,16 @@
         "dialing_code": "+36 83"
     },
     {
+        "city": "Kiskoros",
+        "area_code": "78",
+        "dialing_code": "+36 78"
+    },
+    {
+        "city": "Kiskorys",
+        "area_code": "78",
+        "dialing_code": "+36 78"
+    },
+    {
         "city": "Kiskorös",
         "area_code": "78",
         "dialing_code": "+36 78"
@@ -198,6 +313,16 @@
         "city": "Kiskunhalas",
         "area_code": "77",
         "dialing_code": "+36 77"
+    },
+    {
+        "city": "Kisvarda",
+        "area_code": "45",
+        "dialing_code": "+36 45"
+    },
+    {
+        "city": "Kisvyrda",
+        "area_code": "45",
+        "dialing_code": "+36 45"
     },
     {
         "city": "Kisvárda",
@@ -220,6 +345,21 @@
         "dialing_code": "+36 85"
     },
     {
+        "city": "Mateszalka",
+        "area_code": "44",
+        "dialing_code": "+36 44"
+    },
+    {
+        "city": "Mezokovesd",
+        "area_code": "49",
+        "dialing_code": "+36 49"
+    },
+    {
+        "city": "Mezokyvesd",
+        "area_code": "49",
+        "dialing_code": "+36 49"
+    },
+    {
         "city": "Mezokövesd",
         "area_code": "49",
         "dialing_code": "+36 49"
@@ -233,6 +373,16 @@
         "city": "Miskolc",
         "area_code": "46",
         "dialing_code": "+36 46"
+    },
+    {
+        "city": "Mohacs",
+        "area_code": "69",
+        "dialing_code": "+36 69"
+    },
+    {
+        "city": "Mohycs",
+        "area_code": "69",
+        "dialing_code": "+36 69"
     },
     {
         "city": "Mohács",
@@ -250,6 +400,11 @@
         "dialing_code": "+36 29"
     },
     {
+        "city": "Mytyszalka",
+        "area_code": "44",
+        "dialing_code": "+36 44"
+    },
+    {
         "city": "Mátészalka",
         "area_code": "44",
         "dialing_code": "+36 44"
@@ -265,6 +420,16 @@
         "dialing_code": "+36 93"
     },
     {
+        "city": "Nyiregyhaza",
+        "area_code": "42",
+        "dialing_code": "+36 42"
+    },
+    {
+        "city": "Nyyregyhyza",
+        "area_code": "42",
+        "dialing_code": "+36 42"
+    },
+    {
         "city": "Nyíregyháza",
         "area_code": "42",
         "dialing_code": "+36 42"
@@ -273,6 +438,16 @@
         "city": "Nyýregyhýza",
         "area_code": "42",
         "dialing_code": "+36 42"
+    },
+    {
+        "city": "Oroshaza",
+        "area_code": "68",
+        "dialing_code": "+36 68"
+    },
+    {
+        "city": "Oroshyza",
+        "area_code": "68",
+        "dialing_code": "+36 68"
     },
     {
         "city": "Orosháza",
@@ -285,14 +460,39 @@
         "dialing_code": "+36 68"
     },
     {
+        "city": "Ozd",
+        "area_code": "48",
+        "dialing_code": "+36 48"
+    },
+    {
         "city": "Paks",
         "area_code": "75",
         "dialing_code": "+36 75"
     },
     {
+        "city": "Papa",
+        "area_code": "89",
+        "dialing_code": "+36 89"
+    },
+    {
+        "city": "Pecs",
+        "area_code": "72",
+        "dialing_code": "+36 72"
+    },
+    {
         "city": "Pecsvarad",
         "area_code": "72",
         "dialing_code": "+36 72"
+    },
+    {
+        "city": "Pycs",
+        "area_code": "72",
+        "dialing_code": "+36 72"
+    },
+    {
+        "city": "Pypa",
+        "area_code": "89",
+        "dialing_code": "+36 89"
     },
     {
         "city": "Pápa",
@@ -315,6 +515,16 @@
         "dialing_code": "+36 89"
     },
     {
+        "city": "Salgotarjan",
+        "area_code": "32",
+        "dialing_code": "+36 32"
+    },
+    {
+        "city": "Salgytarjyn",
+        "area_code": "32",
+        "dialing_code": "+36 32"
+    },
+    {
         "city": "Salgótarján",
         "area_code": "32",
         "dialing_code": "+36 32"
@@ -323,6 +533,21 @@
         "city": "Salgýtarjýn",
         "area_code": "32",
         "dialing_code": "+36 32"
+    },
+    {
+        "city": "Sarvar",
+        "area_code": "95",
+        "dialing_code": "+36 95"
+    },
+    {
+        "city": "Siofok",
+        "area_code": "84",
+        "dialing_code": "+36 84"
+    },
+    {
+        "city": "Siyfok",
+        "area_code": "84",
+        "dialing_code": "+36 84"
     },
     {
         "city": "Siófok",
@@ -340,9 +565,29 @@
         "dialing_code": "+36 99"
     },
     {
+        "city": "Syrvyr",
+        "area_code": "95",
+        "dialing_code": "+36 95"
+    },
+    {
         "city": "Szeged",
         "area_code": "62",
         "dialing_code": "+36 62"
+    },
+    {
+        "city": "Szekesfehervar",
+        "area_code": "22",
+        "dialing_code": "+36 22"
+    },
+    {
+        "city": "Szekszard",
+        "area_code": "74",
+        "dialing_code": "+36 74"
+    },
+    {
+        "city": "Szekszyrd",
+        "area_code": "74",
+        "dialing_code": "+36 74"
     },
     {
         "city": "Szekszárd",
@@ -370,6 +615,16 @@
         "dialing_code": "+36 47"
     },
     {
+        "city": "Szigetszentmiklos",
+        "area_code": "24",
+        "dialing_code": "+36 24"
+    },
+    {
+        "city": "Szigetszentmiklys",
+        "area_code": "24",
+        "dialing_code": "+36 24"
+    },
+    {
         "city": "Szigetszentmiklós",
         "area_code": "24",
         "dialing_code": "+36 24"
@@ -378,6 +633,16 @@
         "city": "Szigetszentmiklýs",
         "area_code": "24",
         "dialing_code": "+36 24"
+    },
+    {
+        "city": "Szigetvar",
+        "area_code": "73",
+        "dialing_code": "+36 73"
+    },
+    {
+        "city": "Szigetvyr",
+        "area_code": "73",
+        "dialing_code": "+36 73"
     },
     {
         "city": "Szigetvár",
@@ -398,6 +663,11 @@
         "city": "Szombathely",
         "area_code": "94",
         "dialing_code": "+36 94"
+    },
+    {
+        "city": "Szykesfehyrvyr",
+        "area_code": "22",
+        "dialing_code": "+36 22"
     },
     {
         "city": "Székesfehérvár",
@@ -425,6 +695,16 @@
         "dialing_code": "+36 87"
     },
     {
+        "city": "Tatabanya",
+        "area_code": "34",
+        "dialing_code": "+36 34"
+    },
+    {
+        "city": "Tatabynya",
+        "area_code": "34",
+        "dialing_code": "+36 34"
+    },
+    {
         "city": "Tatabánya",
         "area_code": "34",
         "dialing_code": "+36 34"
@@ -435,9 +715,24 @@
         "dialing_code": "+36 34"
     },
     {
+        "city": "Vac",
+        "area_code": "27",
+        "dialing_code": "+36 27"
+    },
+    {
         "city": "Vacs",
         "area_code": "27",
         "dialing_code": "+36 27"
+    },
+    {
+        "city": "Veszprem",
+        "area_code": "88",
+        "dialing_code": "+36 88"
+    },
+    {
+        "city": "Veszprym",
+        "area_code": "88",
+        "dialing_code": "+36 88"
     },
     {
         "city": "Veszprém",
@@ -448,6 +743,11 @@
         "city": "Veszprým",
         "area_code": "88",
         "dialing_code": "+36 88"
+    },
+    {
+        "city": "Vyc",
+        "area_code": "27",
+        "dialing_code": "+36 27"
     },
     {
         "city": "Vác",
@@ -463,6 +763,11 @@
         "city": "Zalaegerszeg",
         "area_code": "92",
         "dialing_code": "+36 92"
+    },
+    {
+        "city": "yzd",
+        "area_code": "48",
+        "dialing_code": "+36 48"
     },
     {
         "city": "Ózd",

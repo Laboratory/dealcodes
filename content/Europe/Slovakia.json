@@ -5,6 +5,16 @@
         "dialing_code": "+421 41"
     },
     {
+        "city": "Banska Bystrica",
+        "area_code": "48",
+        "dialing_code": "+421 48"
+    },
+    {
+        "city": "Bansky Bystrica",
+        "area_code": "48",
+        "dialing_code": "+421 48"
+    },
+    {
         "city": "Banská Bystrica",
         "area_code": "48",
         "dialing_code": "+421 48"
@@ -25,7 +35,17 @@
         "dialing_code": "+421 2"
     },
     {
+        "city": "Dujanska Streda",
+        "area_code": "31",
+        "dialing_code": "+421 31"
+    },
+    {
         "city": "Dujanská Streda",
+        "area_code": "31",
+        "dialing_code": "+421 31"
+    },
+    {
+        "city": "Dunajsky Streda",
         "area_code": "31",
         "dialing_code": "+421 31"
     },
@@ -33,6 +53,16 @@
         "city": "Dunajský Streda",
         "area_code": "31",
         "dialing_code": "+421 31"
+    },
+    {
+        "city": "Humenne",
+        "area_code": "57",
+        "dialing_code": "+421 57"
+    },
+    {
+        "city": "Humenny",
+        "area_code": "57",
+        "dialing_code": "+421 57"
     },
     {
         "city": "Humenné",
@@ -60,6 +90,11 @@
         "dialing_code": "+421 36"
     },
     {
+        "city": "Liptovsky Mikuly?",
+        "area_code": "44",
+        "dialing_code": "+421 44"
+    },
+    {
         "city": "Liptovský Mikulý?",
         "area_code": "44",
         "dialing_code": "+421 44"
@@ -85,6 +120,16 @@
         "dialing_code": "+421 37"
     },
     {
+        "city": "Nove Zamky",
+        "area_code": "35",
+        "dialing_code": "+421 35"
+    },
+    {
+        "city": "Novy Zymky",
+        "area_code": "35",
+        "dialing_code": "+421 35"
+    },
+    {
         "city": "Nové Zámky",
         "area_code": "35",
         "dialing_code": "+421 35"
@@ -98,6 +143,11 @@
         "city": "Poprad",
         "area_code": "52",
         "dialing_code": "+421 52"
+    },
+    {
+        "city": "Pova?sky Bystrica",
+        "area_code": "42",
+        "dialing_code": "+421 42"
     },
     {
         "city": "Pova?ský Bystrica",
@@ -130,6 +180,11 @@
         "dialing_code": "+421 34"
     },
     {
+        "city": "Spi?sky Novy Ves",
+        "area_code": "53",
+        "dialing_code": "+421 53"
+    },
+    {
         "city": "Spi?ský Nový Ves",
         "area_code": "53",
         "dialing_code": "+421 53"
@@ -138,6 +193,16 @@
         "city": "Topol'cany",
         "area_code": "38",
         "dialing_code": "+421 38"
+    },
+    {
+        "city": "Trencin",
+        "area_code": "32",
+        "dialing_code": "+421 32"
+    },
+    {
+        "city": "Trencyn",
+        "area_code": "32",
+        "dialing_code": "+421 32"
     },
     {
         "city": "Trencín",

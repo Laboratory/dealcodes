@@ -1,5 +1,15 @@
 [
     {
+        "city": "Boke",
+        "area_code": "31",
+        "dialing_code": "+224 31"
+    },
+    {
+        "city": "Boky",
+        "area_code": "31",
+        "dialing_code": "+224 31"
+    },
+    {
         "city": "Boké",
         "area_code": "31",
         "dialing_code": "+224 31"
@@ -35,6 +45,16 @@
         "dialing_code": "+224 24"
     },
     {
+        "city": "Gueckedou",
+        "area_code": "97",
+        "dialing_code": "+224 97"
+    },
+    {
+        "city": "Guyckydou",
+        "area_code": "97",
+        "dialing_code": "+224 97"
+    },
+    {
         "city": "Guéckédou",
         "area_code": "97",
         "dialing_code": "+224 97"
@@ -65,6 +85,16 @@
         "dialing_code": "+224 98"
     },
     {
+        "city": "Labe",
+        "area_code": "51",
+        "dialing_code": "+224 51"
+    },
+    {
+        "city": "Laby",
+        "area_code": "51",
+        "dialing_code": "+224 51"
+    },
+    {
         "city": "Labé",
         "area_code": "51",
         "dialing_code": "+224 51"
@@ -85,6 +115,16 @@
         "dialing_code": "+224 68"
     },
     {
+        "city": "N'Zerekore",
+        "area_code": "91",
+        "dialing_code": "+224 91"
+    },
+    {
+        "city": "N'Zyrykory",
+        "area_code": "91",
+        "dialing_code": "+224 91"
+    },
+    {
         "city": "N'Zérékoré",
         "area_code": "91",
         "dialing_code": "+224 91"
@@ -103,6 +143,16 @@
         "city": "Sangoya",
         "area_code": "42",
         "dialing_code": "+224 42"
+    },
+    {
+        "city": "Telimele",
+        "area_code": "613",
+        "dialing_code": "+224 613"
+    },
+    {
+        "city": "Tylimyly",
+        "area_code": "613",
+        "dialing_code": "+224 613"
     },
     {
         "city": "Télimélé",

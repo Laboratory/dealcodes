@@ -20,6 +20,11 @@
         "dialing_code": "+33 4"
     },
     {
+        "city": "Besancon",
+        "area_code": "3",
+        "dialing_code": "+33 3"
+    },
+    {
         "city": "Besançon",
         "area_code": "3",
         "dialing_code": "+33 3"

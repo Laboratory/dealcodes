@@ -60,9 +60,19 @@
         "dialing_code": "+47 69"
     },
     {
+        "city": "Myre og Romsdal",
+        "area_code": "71",
+        "dialing_code": "+47 71"
+    },
+    {
         "city": "Mýre og Romsdal",
         "area_code": "71",
         "dialing_code": "+47 71"
+    },
+    {
+        "city": "Nord-Tryndelag",
+        "area_code": "74",
+        "dialing_code": "+47 74"
     },
     {
         "city": "Nord-Trýndelag",
@@ -100,6 +110,11 @@
         "dialing_code": "+47 57"
     },
     {
+        "city": "Syr-Tryndelag",
+        "area_code": "73",
+        "dialing_code": "+47 73"
+    },
+    {
         "city": "Sýr-Trýndelag",
         "area_code": "73",
         "dialing_code": "+47 73"
@@ -123,6 +138,11 @@
         "city": "Vestfold County",
         "area_code": "33",
         "dialing_code": "+47 33"
+    },
+    {
+        "city": "ystfold",
+        "area_code": "69",
+        "dialing_code": "+47 69"
     },
     {
         "city": "ýstfold",

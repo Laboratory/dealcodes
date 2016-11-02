@@ -225,6 +225,11 @@
         "dialing_code": "+40 258"
     },
     {
+        "city": "Bocsa Romyna",
+        "area_code": "255",
+        "dialing_code": "+40 255"
+    },
+    {
         "city": "Bocsa Romýna",
         "area_code": "255",
         "dialing_code": "+40 255"
@@ -288,6 +293,11 @@
         "city": "Brebu",
         "area_code": "255",
         "dialing_code": "+40 255"
+    },
+    {
+        "city": "Bretea Romyna",
+        "area_code": "254",
+        "dialing_code": "+40 254"
     },
     {
         "city": "Bretea Romýna",

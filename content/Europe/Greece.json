@@ -545,6 +545,11 @@
         "dialing_code": "+30 210"
     },
     {
+        "city": "Khania",
+        "area_code": "28210",
+        "dialing_code": "+30 28210"
+    },
+    {
         "city": "Khania/Souda",
         "area_code": "28210",
         "dialing_code": "+30 28210"
@@ -1033,6 +1038,11 @@
         "city": "Rhodes",
         "area_code": "2241",
         "dialing_code": "+30 2241"
+    },
+    {
+        "city": "Rodhos",
+        "area_code": "22410",
+        "dialing_code": "+30 22410"
     },
     {
         "city": "Rodopoli",

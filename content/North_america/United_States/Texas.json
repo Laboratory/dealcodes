@@ -95,6 +95,11 @@
         "dialing_code": "+1 214"
     },
     {
+        "city": "DeSoto",
+        "area_code": "214",
+        "dialing_code": "+1 214"
+    },
+    {
         "city": "Deer Park",
         "area_code": "832",
         "dialing_code": "+1 832"
@@ -108,11 +113,6 @@
         "city": "Denton",
         "area_code": "817",
         "dialing_code": "+1 817"
-    },
-    {
-        "city": "DeSoto",
-        "area_code": "214",
-        "dialing_code": "+1 214"
     },
     {
         "city": "Duncanville",

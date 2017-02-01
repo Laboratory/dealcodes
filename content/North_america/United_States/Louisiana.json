@@ -35,6 +35,11 @@
         "dialing_code": "+1 504"
     },
     {
+        "city": "LaPlace",
+        "area_code": "985",
+        "dialing_code": "+1 985"
+    },
+    {
         "city": "Lafayette",
         "area_code": "337",
         "dialing_code": "+1 337"
@@ -43,11 +48,6 @@
         "city": "Lake Charles",
         "area_code": "337",
         "dialing_code": "+1 337"
-    },
-    {
-        "city": "LaPlace",
-        "area_code": "985",
-        "dialing_code": "+1 985"
     },
     {
         "city": "Metairie",

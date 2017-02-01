@@ -15,6 +15,11 @@
         "dialing_code": "+212 55"
     },
     {
+        "city": "Lyayoune",
+        "area_code": "48",
+        "dialing_code": "+212 48"
+    },
+    {
         "city": "Lýayoune",
         "area_code": "48",
         "dialing_code": "+212 48"
@@ -31,6 +36,11 @@
     },
     {
         "city": "Meknes",
+        "area_code": "55",
+        "dialing_code": "+212 55"
+    },
+    {
+        "city": "Myknys",
         "area_code": "55",
         "dialing_code": "+212 55"
     },
@@ -66,6 +76,11 @@
     },
     {
         "city": "Tetouan",
+        "area_code": "39",
+        "dialing_code": "+212 39"
+    },
+    {
+        "city": "Tytouan",
         "area_code": "39",
         "dialing_code": "+212 39"
     },

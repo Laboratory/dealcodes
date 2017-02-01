@@ -120,6 +120,16 @@
         "dialing_code": "+32 85"
     },
     {
+        "city": "La Louviere",
+        "area_code": "64",
+        "dialing_code": "+32 64"
+    },
+    {
+        "city": "La Louviyre",
+        "area_code": "64",
+        "dialing_code": "+32 64"
+    },
+    {
         "city": "La Louvière",
         "area_code": "64",
         "dialing_code": "+32 64"
@@ -146,6 +156,16 @@
     },
     {
         "city": "Liege",
+        "area_code": "4",
+        "dialing_code": "+32 4"
+    },
+    {
+        "city": "Liege (Luik)",
+        "area_code": "4",
+        "dialing_code": "+32 4"
+    },
+    {
+        "city": "Liyge (Luik)",
         "area_code": "4",
         "dialing_code": "+32 4"
     },

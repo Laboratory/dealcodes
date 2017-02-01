@@ -15,6 +15,16 @@
         "dialing_code": "+372 39"
     },
     {
+        "city": "Jygevamaa",
+        "area_code": "77",
+        "dialing_code": "+372 77"
+    },
+    {
+        "city": "Jyrvamaa",
+        "area_code": "38",
+        "dialing_code": "+372 38"
+    },
+    {
         "city": "Jýgevamaa",
         "area_code": "77",
         "dialing_code": "+372 77"
@@ -25,6 +35,16 @@
         "dialing_code": "+372 38"
     },
     {
+        "city": "Lyyne-Virumaa",
+        "area_code": "32",
+        "dialing_code": "+372 32"
+    },
+    {
+        "city": "Lyynemaa",
+        "area_code": "47",
+        "dialing_code": "+372 47"
+    },
+    {
         "city": "Lýýne-Virumaa",
         "area_code": "32",
         "dialing_code": "+372 32"
@@ -33,6 +53,16 @@
         "city": "Lýýnemaa",
         "area_code": "47",
         "dialing_code": "+372 47"
+    },
+    {
+        "city": "Pylvamaa",
+        "area_code": "79",
+        "dialing_code": "+372 79"
+    },
+    {
+        "city": "Pyrnumaa",
+        "area_code": "44",
+        "dialing_code": "+372 44"
     },
     {
         "city": "Pýlvamaa",
@@ -78,6 +108,11 @@
         "city": "Viljandimaa",
         "area_code": "43",
         "dialing_code": "+372 43"
+    },
+    {
+        "city": "Vyrumaa",
+        "area_code": "78",
+        "dialing_code": "+372 78"
     },
     {
         "city": "Výrumaa",

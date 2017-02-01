@@ -35,19 +35,9 @@
         "dialing_code": "+598 349"
     },
     {
-        "city": "Bella Uniyn",
-        "area_code": "779",
-        "dialing_code": "+598 779"
-    },
-    {
         "city": "Bella Uniýn",
         "area_code": "779",
         "dialing_code": "+598 779"
-    },
-    {
-        "city": "Belyn",
-        "area_code": "766",
-        "dialing_code": "+598 766"
     },
     {
         "city": "Belýn",
@@ -68,11 +58,6 @@
         "city": "Canelones",
         "area_code": "32",
         "dialing_code": "+598 32"
-    },
-    {
-        "city": "Canelyn Chico",
-        "area_code": "33",
-        "dialing_code": "+598 33"
     },
     {
         "city": "Canelýn Chico",
@@ -180,11 +165,6 @@
         "dialing_code": "+598 577"
     },
     {
-        "city": "Constituciyn",
-        "area_code": "764",
-        "dialing_code": "+598 764"
-    },
-    {
         "city": "Constituciýn",
         "area_code": "764",
         "dialing_code": "+598 764"
@@ -210,16 +190,6 @@
         "dialing_code": "+598 36"
     },
     {
-        "city": "Estaciyn Andreoni",
-        "area_code": "317",
-        "dialing_code": "+598 317"
-    },
-    {
-        "city": "Estaciyn Sosa Dkaz",
-        "area_code": "390",
-        "dialing_code": "+598 390"
-    },
-    {
         "city": "Estaciýn Andreoni",
         "area_code": "317",
         "dialing_code": "+598 317"
@@ -228,11 +198,6 @@
         "city": "Estaciýn Sosa Dkaz",
         "area_code": "390",
         "dialing_code": "+598 390"
-    },
-    {
-        "city": "Faro Josy Ignacio",
-        "area_code": "486",
-        "dialing_code": "+598 486"
     },
     {
         "city": "Faro Josý Ignacio",
@@ -248,11 +213,6 @@
         "city": "Fraile Muerto",
         "area_code": "688",
         "dialing_code": "+598 688"
-    },
-    {
-        "city": "Guichyn",
-        "area_code": "742",
-        "dialing_code": "+598 742"
     },
     {
         "city": "Guichýn",
@@ -273,16 +233,6 @@
         "city": "J.P.Varela",
         "area_code": "455",
         "dialing_code": "+598 455"
-    },
-    {
-        "city": "Josy Batlle y Ordonez",
-        "area_code": "469",
-        "dialing_code": "+598 469"
-    },
-    {
-        "city": "Josy Enrique Rody",
-        "area_code": "538",
-        "dialing_code": "+598 538"
     },
     {
         "city": "Josý Batlle y Ordonez",
@@ -510,19 +460,9 @@
         "dialing_code": "+598 38"
     },
     {
-        "city": "San Josy",
-        "area_code": "34",
-        "dialing_code": "+598 34"
-    },
-    {
         "city": "San Josý",
         "area_code": "34",
         "dialing_code": "+598 34"
-    },
-    {
-        "city": "San Ramyn",
-        "area_code": "312",
-        "dialing_code": "+598 312"
     },
     {
         "city": "San Ramýn",
@@ -551,11 +491,6 @@
     },
     {
         "city": "Tacuarembo",
-        "area_code": "63",
-        "dialing_code": "+598 63"
-    },
-    {
-        "city": "Tacuaremby",
         "area_code": "63",
         "dialing_code": "+598 63"
     },

@@ -10,11 +10,6 @@
         "dialing_code": "+55 859"
     },
     {
-        "city": "Anapolis",
-        "area_code": "62",
-        "dialing_code": "+55 62"
-    },
-    {
         "city": "Anápolis",
         "area_code": "62",
         "dialing_code": "+55 62"
@@ -40,19 +35,9 @@
         "dialing_code": "+55 14"
     },
     {
-        "city": "Belem",
-        "area_code": "91",
-        "dialing_code": "+55 91"
-    },
-    {
         "city": "Belo Horizonte",
         "area_code": "31",
         "dialing_code": "+55 31"
-    },
-    {
-        "city": "Belym",
-        "area_code": "91",
-        "dialing_code": "+55 91"
     },
     {
         "city": "Belém",
@@ -76,11 +61,6 @@
     },
     {
         "city": "Brasilia",
-        "area_code": "61",
-        "dialing_code": "+55 61"
-    },
-    {
-        "city": "Brasylia",
         "area_code": "61",
         "dialing_code": "+55 61"
     },
@@ -141,11 +121,6 @@
     },
     {
         "city": "Florianopolis",
-        "area_code": "48",
-        "dialing_code": "+55 48"
-    },
-    {
-        "city": "Florianypolis",
         "area_code": "48",
         "dialing_code": "+55 48"
     },
@@ -223,11 +198,6 @@
         "city": "Maceio",
         "area_code": "82",
         "dialing_code": "+55 82"
-    },
-    {
-        "city": "Macye",
-        "area_code": "24",
-        "dialing_code": "+55 24"
     },
     {
         "city": "Macýe",
@@ -315,11 +285,6 @@
         "dialing_code": "+55 81"
     },
     {
-        "city": "Ribeirao Preto",
-        "area_code": "16",
-        "dialing_code": "+55 16"
-    },
-    {
         "city": "Ribeirão Preto",
         "area_code": "16",
         "dialing_code": "+55 16"
@@ -395,26 +360,6 @@
         "dialing_code": "+55 13"
     },
     {
-        "city": "Sao Jose do Rio Preto",
-        "area_code": "17",
-        "dialing_code": "+55 17"
-    },
-    {
-        "city": "Sao Jose dos Campos",
-        "area_code": "12",
-        "dialing_code": "+55 12"
-    },
-    {
-        "city": "Sao Luis",
-        "area_code": "98",
-        "dialing_code": "+55 98"
-    },
-    {
-        "city": "Sao Paulo",
-        "area_code": "11",
-        "dialing_code": "+55 11"
-    },
-    {
         "city": "Sobral",
         "area_code": "88",
         "dialing_code": "+55 88"
@@ -423,16 +368,6 @@
         "city": "Sorocaba",
         "area_code": "15",
         "dialing_code": "+55 15"
-    },
-    {
-        "city": "Syo Josy dos Campos",
-        "area_code": "12",
-        "dialing_code": "+55 12"
-    },
-    {
-        "city": "Syo Paulo",
-        "area_code": "11",
-        "dialing_code": "+55 11"
     },
     {
         "city": "São Jose do Rio Preto",
@@ -508,11 +443,6 @@
         "city": "Vitoria da Conquista",
         "area_code": "77",
         "dialing_code": "+55 77"
-    },
-    {
-        "city": "Vityria",
-        "area_code": "27",
-        "dialing_code": "+55 27"
     },
     {
         "city": "Vitýria",

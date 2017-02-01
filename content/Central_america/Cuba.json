@@ -15,16 +15,6 @@
         "dialing_code": "+53 43"
     },
     {
-        "city": "Alquizar",
-        "area_code": "67",
-        "dialing_code": "+53 67"
-    },
-    {
-        "city": "Alquyzar",
-        "area_code": "67",
-        "dialing_code": "+53 67"
-    },
-    {
         "city": "Alquízar",
         "area_code": "67",
         "dialing_code": "+53 67"
@@ -85,16 +75,6 @@
         "dialing_code": "+53 23"
     },
     {
-        "city": "Batabano",
-        "area_code": "62",
-        "dialing_code": "+53 62"
-    },
-    {
-        "city": "Batabany",
-        "area_code": "62",
-        "dialing_code": "+53 62"
-    },
-    {
         "city": "Batabanó",
         "area_code": "62",
         "dialing_code": "+53 62"
@@ -150,16 +130,6 @@
         "dialing_code": "+53 23"
     },
     {
-        "city": "Cabanas",
-        "area_code": "63",
-        "dialing_code": "+53 63"
-    },
-    {
-        "city": "Cabayas",
-        "area_code": "63",
-        "dialing_code": "+53 63"
-    },
-    {
         "city": "Cabañas",
         "area_code": "63",
         "dialing_code": "+53 63"
@@ -195,11 +165,6 @@
         "dialing_code": "+53 32"
     },
     {
-        "city": "Camagyey",
-        "area_code": "32",
-        "dialing_code": "+53 32"
-    },
-    {
         "city": "Camagýey",
         "area_code": "32",
         "dialing_code": "+53 32"
@@ -230,16 +195,6 @@
         "dialing_code": "+53 23"
     },
     {
-        "city": "Canasi",
-        "area_code": "6929",
-        "dialing_code": "+53 6929"
-    },
-    {
-        "city": "Canasy",
-        "area_code": "6929",
-        "dialing_code": "+53 6929"
-    },
-    {
         "city": "Canasí",
         "area_code": "6929",
         "dialing_code": "+53 6929"
@@ -260,24 +215,9 @@
         "dialing_code": "+53 32"
     },
     {
-        "city": "Cardenas",
-        "area_code": "45",
-        "dialing_code": "+53 45"
-    },
-    {
         "city": "Cascorro",
         "area_code": "32",
         "dialing_code": "+53 32"
-    },
-    {
-        "city": "Catalina de Guines",
-        "area_code": "62",
-        "dialing_code": "+53 62"
-    },
-    {
-        "city": "Catalina de Gyines",
-        "area_code": "62",
-        "dialing_code": "+53 62"
     },
     {
         "city": "Catalina de Güines",
@@ -340,16 +280,6 @@
         "dialing_code": "+53 5"
     },
     {
-        "city": "Ciego de Avila",
-        "area_code": "33",
-        "dialing_code": "+53 33"
-    },
-    {
-        "city": "Ciego de yvila",
-        "area_code": "33",
-        "dialing_code": "+53 33"
-    },
-    {
         "city": "Ciego de Ávila",
         "area_code": "33",
         "dialing_code": "+53 33"
@@ -360,11 +290,6 @@
         "dialing_code": "+53 33"
     },
     {
-        "city": "Cienaga de Zapata",
-        "area_code": "59",
-        "dialing_code": "+53 59"
-    },
-    {
         "city": "Cienfuegos",
         "area_code": "432",
         "dialing_code": "+53 432"
@@ -373,11 +298,6 @@
         "city": "Ciro Redondo",
         "area_code": "33",
         "dialing_code": "+53 33"
-    },
-    {
-        "city": "Ciynaga de Zapata",
-        "area_code": "59",
-        "dialing_code": "+53 59"
     },
     {
         "city": "Ciénaga de Zapata",
@@ -395,16 +315,6 @@
         "dialing_code": "+53 31"
     },
     {
-        "city": "Colon",
-        "area_code": "5",
-        "dialing_code": "+53 5"
-    },
-    {
-        "city": "Colyn",
-        "area_code": "5",
-        "dialing_code": "+53 5"
-    },
-    {
         "city": "Colón",
         "area_code": "5",
         "dialing_code": "+53 5"
@@ -420,16 +330,6 @@
         "dialing_code": "+53 32"
     },
     {
-        "city": "Consolacion del Sur",
-        "area_code": "8",
-        "dialing_code": "+53 8"
-    },
-    {
-        "city": "Consolaciyn del Sur",
-        "area_code": "8",
-        "dialing_code": "+53 8"
-    },
-    {
         "city": "Consolación del Sur",
         "area_code": "8",
         "dialing_code": "+53 8"
@@ -443,16 +343,6 @@
         "city": "Contramaestre",
         "area_code": "22",
         "dialing_code": "+53 22"
-    },
-    {
-        "city": "Cortes",
-        "area_code": "84",
-        "dialing_code": "+53 84"
-    },
-    {
-        "city": "Cortys",
-        "area_code": "84",
-        "dialing_code": "+53 84"
     },
     {
         "city": "Cortés",
@@ -473,11 +363,6 @@
         "city": "Cueto",
         "area_code": "24",
         "dialing_code": "+53 24"
-    },
-    {
-        "city": "Cyrdenas",
-        "area_code": "45",
-        "dialing_code": "+53 45"
     },
     {
         "city": "Cárdenas",
@@ -580,17 +465,7 @@
         "dialing_code": "+53 84"
     },
     {
-        "city": "Guantanamo",
-        "area_code": "21",
-        "dialing_code": "+53 21"
-    },
-    {
         "city": "Guantanamo Bay Naval Air Stati",
-        "area_code": "21",
-        "dialing_code": "+53 21"
-    },
-    {
-        "city": "Guantynamo",
         "area_code": "21",
         "dialing_code": "+53 21"
     },
@@ -630,29 +505,9 @@
         "dialing_code": "+53 33"
     },
     {
-        "city": "Guines",
-        "area_code": "62",
-        "dialing_code": "+53 62"
-    },
-    {
-        "city": "Guira de Melena",
-        "area_code": "67",
-        "dialing_code": "+53 67"
-    },
-    {
         "city": "Guisa",
         "area_code": "23",
         "dialing_code": "+53 23"
-    },
-    {
-        "city": "Gyines",
-        "area_code": "62",
-        "dialing_code": "+53 62"
-    },
-    {
-        "city": "Gyira de Melena",
-        "area_code": "67",
-        "dialing_code": "+53 67"
     },
     {
         "city": "Güines",
@@ -695,11 +550,6 @@
         "dialing_code": "+53 24"
     },
     {
-        "city": "Holguyn",
-        "area_code": "24",
-        "dialing_code": "+53 24"
-    },
-    {
         "city": "Holguýn",
         "area_code": "24",
         "dialing_code": "+53 24"
@@ -718,16 +568,6 @@
         "city": "Isla de la Juventud",
         "area_code": "61",
         "dialing_code": "+53 61"
-    },
-    {
-        "city": "Jaguey Grande",
-        "area_code": "59",
-        "dialing_code": "+53 59"
-    },
-    {
-        "city": "Jagyey Grande",
-        "area_code": "59",
-        "dialing_code": "+53 59"
     },
     {
         "city": "Jagüey Grande",
@@ -786,16 +626,6 @@
     },
     {
         "city": "La Demajagua",
-        "area_code": "61",
-        "dialing_code": "+53 61"
-    },
-    {
-        "city": "La Fe",
-        "area_code": "61",
-        "dialing_code": "+53 61"
-    },
-    {
-        "city": "La Fy",
         "area_code": "61",
         "dialing_code": "+53 61"
     },
@@ -865,16 +695,6 @@
         "dialing_code": "+53 5"
     },
     {
-        "city": "Lopez Pena",
-        "area_code": "85",
-        "dialing_code": "+53 85"
-    },
-    {
-        "city": "Lopez Peya",
-        "area_code": "85",
-        "dialing_code": "+53 85"
-    },
-    {
         "city": "Lopez Peña",
         "area_code": "85",
         "dialing_code": "+53 85"
@@ -898,16 +718,6 @@
         "city": "Los Reynaldos",
         "area_code": "22",
         "dialing_code": "+53 22"
-    },
-    {
-        "city": "Lugareno",
-        "area_code": "32",
-        "dialing_code": "+53 32"
-    },
-    {
-        "city": "Lugareyo",
-        "area_code": "32",
-        "dialing_code": "+53 32"
     },
     {
         "city": "Lugareño",
@@ -983,16 +793,6 @@
         "city": "Mariel",
         "area_code": "63",
         "dialing_code": "+53 63"
-    },
-    {
-        "city": "Marti",
-        "area_code": "5",
-        "dialing_code": "+53 5"
-    },
-    {
-        "city": "Marty",
-        "area_code": "5",
-        "dialing_code": "+53 5"
     },
     {
         "city": "Martí",
@@ -1150,11 +950,6 @@
         "dialing_code": "+53 82"
     },
     {
-        "city": "Pinar del Ryo",
-        "area_code": "82",
-        "dialing_code": "+53 82"
-    },
-    {
         "city": "Pinar del Rýo",
         "area_code": "82",
         "dialing_code": "+53 82"
@@ -1165,27 +960,12 @@
         "dialing_code": "+53 680"
     },
     {
-        "city": "Playa Garon",
-        "area_code": "5",
-        "dialing_code": "+53 5"
-    },
-    {
-        "city": "Playa Garyn",
-        "area_code": "5",
-        "dialing_code": "+53 5"
-    },
-    {
         "city": "Playa Garón",
         "area_code": "5",
         "dialing_code": "+53 5"
     },
     {
         "city": "Playa Garýn",
-        "area_code": "5",
-        "dialing_code": "+53 5"
-    },
-    {
-        "city": "Playa Giron",
         "area_code": "5",
         "dialing_code": "+53 5"
     },
@@ -1220,16 +1000,6 @@
         "dialing_code": "+53 31"
     },
     {
-        "city": "Quivican",
-        "area_code": "67",
-        "dialing_code": "+53 67"
-    },
-    {
-        "city": "Quivicyn",
-        "area_code": "67",
-        "dialing_code": "+53 67"
-    },
-    {
         "city": "Quivicán",
         "area_code": "67",
         "dialing_code": "+53 67"
@@ -1260,11 +1030,6 @@
         "dialing_code": "+53 33"
     },
     {
-        "city": "Sabalo",
-        "area_code": "84",
-        "dialing_code": "+53 84"
-    },
-    {
         "city": "Sagua de Tanamo",
         "area_code": "24",
         "dialing_code": "+53 24"
@@ -1285,16 +1050,6 @@
         "dialing_code": "+53 64"
     },
     {
-        "city": "San Antonio de Los Banos",
-        "area_code": "650",
-        "dialing_code": "+53 650"
-    },
-    {
-        "city": "San Antonio de Los Bayos",
-        "area_code": "650",
-        "dialing_code": "+53 650"
-    },
-    {
         "city": "San Antonio de Los Baños",
         "area_code": "650",
         "dialing_code": "+53 650"
@@ -1310,16 +1065,6 @@
         "dialing_code": "+53 64"
     },
     {
-        "city": "San Juan y Martinez",
-        "area_code": "8",
-        "dialing_code": "+53 8"
-    },
-    {
-        "city": "San Juan y Martynez",
-        "area_code": "8",
-        "dialing_code": "+53 8"
-    },
-    {
         "city": "San Juan y Martínez",
         "area_code": "8",
         "dialing_code": "+53 8"
@@ -1333,16 +1078,6 @@
         "city": "San Luis",
         "area_code": "8",
         "dialing_code": "+53 8"
-    },
-    {
-        "city": "San Nicolas de Bari",
-        "area_code": "62",
-        "dialing_code": "+53 62"
-    },
-    {
-        "city": "San Nicolys de Bari",
-        "area_code": "62",
-        "dialing_code": "+53 62"
     },
     {
         "city": "San Nicolás de Bari",
@@ -1405,11 +1140,6 @@
         "dialing_code": "+53 32"
     },
     {
-        "city": "Sybalo",
-        "area_code": "84",
-        "dialing_code": "+53 84"
-    },
-    {
         "city": "Sábalo",
         "area_code": "84",
         "dialing_code": "+53 84"
@@ -1433,16 +1163,6 @@
         "city": "Tapaste",
         "area_code": "64",
         "dialing_code": "+53 64"
-    },
-    {
-        "city": "Union de Reyes",
-        "area_code": "5",
-        "dialing_code": "+53 5"
-    },
-    {
-        "city": "Uniyn de Reyes",
-        "area_code": "5",
-        "dialing_code": "+53 5"
     },
     {
         "city": "Unión de Reyes",
@@ -1488,16 +1208,6 @@
         "city": "Villa Clara",
         "area_code": "42",
         "dialing_code": "+53 42"
-    },
-    {
-        "city": "Vinales",
-        "area_code": "8",
-        "dialing_code": "+53 8"
-    },
-    {
-        "city": "Viyales",
-        "area_code": "8",
-        "dialing_code": "+53 8"
     },
     {
         "city": "Viñales",

@@ -10,11 +10,6 @@
         "dialing_code": "+351 21"
     },
     {
-        "city": "Angra do Heroysmo",
-        "area_code": "295",
-        "dialing_code": "+351 295"
-    },
-    {
         "city": "Angra do Heroýsmo",
         "area_code": "295",
         "dialing_code": "+351 295"
@@ -45,22 +40,12 @@
         "dialing_code": "+351 273"
     },
     {
-        "city": "Braganya",
-        "area_code": "273",
-        "dialing_code": "+351 273"
-    },
-    {
         "city": "Braganýa",
         "area_code": "273",
         "dialing_code": "+351 273"
     },
     {
         "city": "Caldar Da Rainha",
-        "area_code": "262",
-        "dialing_code": "+351 262"
-    },
-    {
-        "city": "Caldas da Raynha",
         "area_code": "262",
         "dialing_code": "+351 262"
     },
@@ -105,11 +90,6 @@
         "dialing_code": "+351 275"
     },
     {
-        "city": "Covilhy",
-        "area_code": "275",
-        "dialing_code": "+351 275"
-    },
-    {
         "city": "Covilhý",
         "area_code": "275",
         "dialing_code": "+351 275"
@@ -118,11 +98,6 @@
         "city": "Estremoz",
         "area_code": "268",
         "dialing_code": "+351 268"
-    },
-    {
-        "city": "Evora",
-        "area_code": "266",
-        "dialing_code": "+351 266"
     },
     {
         "city": "Faro",
@@ -200,11 +175,6 @@
         "dialing_code": "+351 255"
     },
     {
-        "city": "Peso da Rygua",
-        "area_code": "254",
-        "dialing_code": "+351 254"
-    },
-    {
         "city": "Peso da Rýgua",
         "area_code": "254",
         "dialing_code": "+351 254"
@@ -220,11 +190,6 @@
         "dialing_code": "+351 296"
     },
     {
-        "city": "Ponte de Syr",
-        "area_code": "242",
-        "dialing_code": "+351 242"
-    },
-    {
         "city": "Ponte de Sýr",
         "area_code": "242",
         "dialing_code": "+351 242"
@@ -233,16 +198,6 @@
         "city": "Portalegre",
         "area_code": "245",
         "dialing_code": "+351 245"
-    },
-    {
-        "city": "Portimao",
-        "area_code": "282",
-        "dialing_code": "+351 282"
-    },
-    {
-        "city": "Portimyo",
-        "area_code": "282",
-        "dialing_code": "+351 282"
     },
     {
         "city": "Portimão",
@@ -260,19 +215,9 @@
         "dialing_code": "+351 22"
     },
     {
-        "city": "Proenya-a-Nova",
-        "area_code": "274",
-        "dialing_code": "+351 274"
-    },
-    {
         "city": "Proenýa-a-Nova",
         "area_code": "274",
         "dialing_code": "+351 274"
-    },
-    {
-        "city": "S. Joyo da Madeira",
-        "area_code": "256",
-        "dialing_code": "+351 256"
     },
     {
         "city": "S. Joýo da Madeira",
@@ -285,19 +230,9 @@
         "dialing_code": "+351 243"
     },
     {
-        "city": "Santarym",
-        "area_code": "243",
-        "dialing_code": "+351 243"
-    },
-    {
         "city": "Santarým",
         "area_code": "243",
         "dialing_code": "+351 243"
-    },
-    {
-        "city": "Santiago do Cacym",
-        "area_code": "269",
-        "dialing_code": "+351 269"
     },
     {
         "city": "Santiago do Cacým",
@@ -308,16 +243,6 @@
         "city": "Seia",
         "area_code": "238",
         "dialing_code": "+351 238"
-    },
-    {
-        "city": "Setubal",
-        "area_code": "265",
-        "dialing_code": "+351 265"
-    },
-    {
-        "city": "Setybal",
-        "area_code": "265",
-        "dialing_code": "+351 265"
     },
     {
         "city": "Setúbal",
@@ -350,19 +275,9 @@
         "dialing_code": "+351 263"
     },
     {
-        "city": "V. N. de Famalicyo",
-        "area_code": "252",
-        "dialing_code": "+351 252"
-    },
-    {
         "city": "V. N. de Famalicýo",
         "area_code": "252",
         "dialing_code": "+351 252"
-    },
-    {
-        "city": "Valenya",
-        "area_code": "251",
-        "dialing_code": "+351 251"
     },
     {
         "city": "Valenýa",
@@ -388,11 +303,6 @@
         "city": "Viseu",
         "area_code": "232",
         "dialing_code": "+351 232"
-    },
-    {
-        "city": "yvora",
-        "area_code": "266",
-        "dialing_code": "+351 266"
     },
     {
         "city": "Évora",

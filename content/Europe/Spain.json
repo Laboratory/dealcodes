@@ -1,10 +1,5 @@
 [
     {
-        "city": "A Coruya",
-        "area_code": "981",
-        "dialing_code": "+34 981"
-    },
-    {
         "city": "A Coruýa",
         "area_code": "981",
         "dialing_code": "+34 981"
@@ -148,11 +143,6 @@
         "city": "Jaen",
         "area_code": "953",
         "dialing_code": "+34 953"
-    },
-    {
-        "city": "La Coruna",
-        "area_code": "81",
-        "dialing_code": "+34 81"
     },
     {
         "city": "La Coruña",

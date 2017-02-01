@@ -5,11 +5,6 @@
         "dialing_code": "+226 88XXXX"
     },
     {
-        "city": "Diybougou",
-        "area_code": "86XXXX",
-        "dialing_code": "+226 86XXXX"
-    },
-    {
         "city": "Diýbougou",
         "area_code": "86XXXX",
         "dialing_code": "+226 86XXXX"
@@ -18,11 +13,6 @@
         "city": "Dori",
         "area_code": "66XXXX",
         "dialing_code": "+226 66XXXX"
-    },
-    {
-        "city": "Dydougou",
-        "area_code": "52XXXX",
-        "dialing_code": "+226 52XXXX"
     },
     {
         "city": "Dýdougou",
@@ -53,11 +43,6 @@
         "city": "Koudougou",
         "area_code": "44XXXX",
         "dialing_code": "+226 44XXXX"
-    },
-    {
-        "city": "Koupyla",
-        "area_code": "70XXXX",
-        "dialing_code": "+226 70XXXX"
     },
     {
         "city": "Koupýla",

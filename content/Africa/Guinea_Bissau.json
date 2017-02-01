@@ -1,10 +1,5 @@
 [
     {
-        "city": "Bafaty",
-        "area_code": "41XXXX",
-        "dialing_code": "+245 41XXXX"
-    },
-    {
         "city": "Bafatý",
         "area_code": "41XXXX",
         "dialing_code": "+245 41XXXX"
@@ -30,11 +25,6 @@
         "dialing_code": "+245"
     },
     {
-        "city": "Bissory",
-        "area_code": "32XXXX",
-        "dialing_code": "+245 32XXXX"
-    },
-    {
         "city": "Bissorý",
         "area_code": "32XXXX",
         "dialing_code": "+245 32XXXX"
@@ -43,11 +33,6 @@
         "city": "Bolama",
         "area_code": "81XXXX",
         "dialing_code": "+245 81XXXX"
-    },
-    {
-        "city": "Bry",
-        "area_code": "25XXXX",
-        "dialing_code": "+245 25XXXX"
     },
     {
         "city": "Brý",
@@ -105,11 +90,6 @@
         "dialing_code": "+245 61XXXX"
     },
     {
-        "city": "Gaby",
-        "area_code": "51XXXX",
-        "dialing_code": "+245 51XXXX"
-    },
-    {
         "city": "Gabý",
         "area_code": "51XXXX",
         "dialing_code": "+245 51XXXX"
@@ -121,11 +101,6 @@
     },
     {
         "city": "Mansoa",
-        "area_code": "31XXXX",
-        "dialing_code": "+245 31XXXX"
-    },
-    {
-        "city": "Manssaby",
         "area_code": "31XXXX",
         "dialing_code": "+245 31XXXX"
     },

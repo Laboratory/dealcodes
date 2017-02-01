@@ -20,11 +20,6 @@
         "dialing_code": "+56 42"
     },
     {
-        "city": "Chillyn",
-        "area_code": "42",
-        "dialing_code": "+56 42"
-    },
-    {
         "city": "Chillýn",
         "area_code": "42",
         "dialing_code": "+56 42"
@@ -35,19 +30,9 @@
         "dialing_code": "+56 41"
     },
     {
-        "city": "Concepciyn",
-        "area_code": "41",
-        "dialing_code": "+56 41"
-    },
-    {
         "city": "Concepciýn",
         "area_code": "41",
         "dialing_code": "+56 41"
-    },
-    {
-        "city": "Copiacy",
-        "area_code": "52",
-        "dialing_code": "+56 52"
     },
     {
         "city": "Copiacý",
@@ -71,11 +56,6 @@
     },
     {
         "city": "Curico",
-        "area_code": "75",
-        "dialing_code": "+56 75"
-    },
-    {
-        "city": "Curicy",
         "area_code": "75",
         "dialing_code": "+56 75"
     },
@@ -190,22 +170,12 @@
         "dialing_code": "+56 32"
     },
     {
-        "city": "Valparayso",
-        "area_code": "32",
-        "dialing_code": "+56 32"
-    },
-    {
         "city": "Valparaýso",
         "area_code": "32",
         "dialing_code": "+56 32"
     },
     {
         "city": "Vina del Mar",
-        "area_code": "32",
-        "dialing_code": "+56 32"
-    },
-    {
-        "city": "Viya del Mar",
         "area_code": "32",
         "dialing_code": "+56 32"
     },

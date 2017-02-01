@@ -1,20 +1,5 @@
 [
     {
-        "city": "Aanekoski",
-        "area_code": "14",
-        "dialing_code": "+358 14"
-    },
-    {
-        "city": "Alajarvi",
-        "area_code": "6",
-        "dialing_code": "+358 6"
-    },
-    {
-        "city": "Alajyrvi",
-        "area_code": "6",
-        "dialing_code": "+358 6"
-    },
-    {
         "city": "Alajärvi",
         "area_code": "6",
         "dialing_code": "+358 6"
@@ -30,16 +15,6 @@
         "dialing_code": "+358 6"
     },
     {
-        "city": "Bjorneborg",
-        "area_code": "2",
-        "dialing_code": "+358 2"
-    },
-    {
-        "city": "Bjyrneborg",
-        "area_code": "2",
-        "dialing_code": "+358 2"
-    },
-    {
         "city": "Björneborg",
         "area_code": "2",
         "dialing_code": "+358 2"
@@ -50,32 +25,12 @@
         "dialing_code": "+358 2"
     },
     {
-        "city": "Borga",
-        "area_code": "19",
-        "dialing_code": "+358 19"
-    },
-    {
-        "city": "Borgy",
-        "area_code": "19",
-        "dialing_code": "+358 19"
-    },
-    {
         "city": "Borgå",
         "area_code": "19",
         "dialing_code": "+358 19"
     },
     {
         "city": "Borgý",
-        "area_code": "19",
-        "dialing_code": "+358 19"
-    },
-    {
-        "city": "Ekenas",
-        "area_code": "19",
-        "dialing_code": "+358 19"
-    },
-    {
-        "city": "Ekenys",
         "area_code": "19",
         "dialing_code": "+358 19"
     },
@@ -105,16 +60,6 @@
         "dialing_code": "+358 3"
     },
     {
-        "city": "Haapajarvi",
-        "area_code": "8",
-        "dialing_code": "+358 8"
-    },
-    {
-        "city": "Haapajyrvi",
-        "area_code": "8",
-        "dialing_code": "+358 8"
-    },
-    {
         "city": "Haapajärvi",
         "area_code": "8",
         "dialing_code": "+358 8"
@@ -123,21 +68,6 @@
         "city": "Haapajýrvi",
         "area_code": "8",
         "dialing_code": "+358 8"
-    },
-    {
-        "city": "Hameenlinna",
-        "area_code": "3",
-        "dialing_code": "+358 3"
-    },
-    {
-        "city": "Hango",
-        "area_code": "19",
-        "dialing_code": "+358 19"
-    },
-    {
-        "city": "Hangy",
-        "area_code": "19",
-        "dialing_code": "+358 19"
     },
     {
         "city": "Hangö",
@@ -170,11 +100,6 @@
         "dialing_code": "+358 9"
     },
     {
-        "city": "Hymeenlinna",
-        "area_code": "3",
-        "dialing_code": "+358 3"
-    },
-    {
         "city": "Hämeenlinna",
         "area_code": "3",
         "dialing_code": "+358 3"
@@ -195,32 +120,12 @@
         "dialing_code": "+358 6"
     },
     {
-        "city": "Jamsa",
-        "area_code": "14",
-        "dialing_code": "+358 14"
-    },
-    {
         "city": "Joensuu",
         "area_code": "13",
         "dialing_code": "+358 13"
     },
     {
         "city": "Joutsa",
-        "area_code": "14",
-        "dialing_code": "+358 14"
-    },
-    {
-        "city": "Jymsy",
-        "area_code": "14",
-        "dialing_code": "+358 14"
-    },
-    {
-        "city": "Jyvaskyla",
-        "area_code": "14",
-        "dialing_code": "+358 14"
-    },
-    {
-        "city": "Jyvyskyly",
         "area_code": "14",
         "dialing_code": "+358 14"
     },
@@ -250,16 +155,6 @@
         "dialing_code": "+358 8"
     },
     {
-        "city": "Kankaanpaa",
-        "area_code": "2",
-        "dialing_code": "+358 2"
-    },
-    {
-        "city": "Kankaanpyy",
-        "area_code": "2",
-        "dialing_code": "+358 2"
-    },
-    {
         "city": "Kankaanpää",
         "area_code": "2",
         "dialing_code": "+358 2"
@@ -285,16 +180,6 @@
         "dialing_code": "+358 16"
     },
     {
-        "city": "Kemijarvi",
-        "area_code": "16",
-        "dialing_code": "+358 16"
-    },
-    {
-        "city": "Kemijyrvi",
-        "area_code": "16",
-        "dialing_code": "+358 16"
-    },
-    {
         "city": "Kemijärvi",
         "area_code": "16",
         "dialing_code": "+358 16"
@@ -303,16 +188,6 @@
         "city": "Kemijýrvi",
         "area_code": "16",
         "dialing_code": "+358 16"
-    },
-    {
-        "city": "Kemio",
-        "area_code": "2",
-        "dialing_code": "+358 2"
-    },
-    {
-        "city": "Kemiy",
-        "area_code": "2",
-        "dialing_code": "+358 2"
     },
     {
         "city": "Kemiö",
@@ -435,16 +310,6 @@
         "dialing_code": "+358 3"
     },
     {
-        "city": "Pieksamaki",
-        "area_code": "15",
-        "dialing_code": "+358 15"
-    },
-    {
-        "city": "Pieksymyki",
-        "area_code": "15",
-        "dialing_code": "+358 15"
-    },
-    {
         "city": "Pieksämäki",
         "area_code": "15",
         "dialing_code": "+358 15"
@@ -485,16 +350,6 @@
         "dialing_code": "+358 16"
     },
     {
-        "city": "Saarijarvi",
-        "area_code": "14",
-        "dialing_code": "+358 14"
-    },
-    {
-        "city": "Saarijyrvi",
-        "area_code": "14",
-        "dialing_code": "+358 14"
-    },
-    {
         "city": "Saarijärvi",
         "area_code": "14",
         "dialing_code": "+358 14"
@@ -508,16 +363,6 @@
         "city": "Savonlinna",
         "area_code": "15",
         "dialing_code": "+358 15"
-    },
-    {
-        "city": "Seinajoki",
-        "area_code": "6",
-        "dialing_code": "+358 6"
-    },
-    {
-        "city": "Seinyjoki",
-        "area_code": "6",
-        "dialing_code": "+358 6"
     },
     {
         "city": "Seinäjoki",
@@ -558,16 +403,6 @@
         "city": "Turku",
         "area_code": "2",
         "dialing_code": "+358 2"
-    },
-    {
-        "city": "Uleaborg",
-        "area_code": "8",
-        "dialing_code": "+358 8"
-    },
-    {
-        "city": "Uleybyrg",
-        "area_code": "8",
-        "dialing_code": "+358 8"
     },
     {
         "city": "Uleåbörg",
@@ -618,11 +453,6 @@
         "city": "Ylivieska",
         "area_code": "8",
         "dialing_code": "+358 8"
-    },
-    {
-        "city": "yynekoski",
-        "area_code": "14",
-        "dialing_code": "+358 14"
     },
     {
         "city": "Äänekoski",

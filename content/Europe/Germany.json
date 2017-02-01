@@ -150,11 +150,6 @@
         "dialing_code": "+49 761"
     },
     {
-        "city": "Furth",
-        "area_code": "911",
-        "dialing_code": "+49 911"
-    },
-    {
         "city": "Fürth",
         "area_code": "911",
         "dialing_code": "+49 911"
@@ -168,11 +163,6 @@
         "city": "Gera",
         "area_code": "365",
         "dialing_code": "+49 365"
-    },
-    {
-        "city": "Gottingen",
-        "area_code": "",
-        "dialing_code": "+49"
     },
     {
         "city": "Göttingen",
@@ -275,11 +265,6 @@
         "dialing_code": "+49 214"
     },
     {
-        "city": "Lubeck",
-        "area_code": "451",
-        "dialing_code": "+49 451"
-    },
-    {
         "city": "Ludwigsburg",
         "area_code": "7141",
         "dialing_code": "+49 7141"
@@ -313,11 +298,6 @@
         "city": "Mobile Phones",
         "area_code": "17",
         "dialing_code": "+49 17"
-    },
-    {
-        "city": "Monchengladbach",
-        "area_code": "2161",
-        "dialing_code": "+49 2161"
     },
     {
         "city": "Munich",
@@ -370,11 +350,6 @@
         "dialing_code": "+49 441"
     },
     {
-        "city": "Osnabruck",
-        "area_code": "541",
-        "dialing_code": "+49 541"
-    },
-    {
         "city": "Osnabrück",
         "area_code": "541",
         "dialing_code": "+49 541"
@@ -418,11 +393,6 @@
         "city": "Saal",
         "area_code": "38223",
         "dialing_code": "+49 38223"
-    },
-    {
-        "city": "Saarbrucken",
-        "area_code": "681",
-        "dialing_code": "+49 681"
     },
     {
         "city": "Saarbrücken",
@@ -473,11 +443,6 @@
         "city": "Wuppertal",
         "area_code": "202",
         "dialing_code": "+49 202"
-    },
-    {
-        "city": "Wurzburg",
-        "area_code": "931",
-        "dialing_code": "+49 931"
     },
     {
         "city": "Würzburg",

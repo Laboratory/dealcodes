@@ -1,15 +1,5 @@
 [
     {
-        "city": "Babice",
-        "area_code": "394",
-        "dialing_code": "+355 394"
-    },
-    {
-        "city": "Babicy",
-        "area_code": "394",
-        "dialing_code": "+355 394"
-    },
-    {
         "city": "Babicë",
         "area_code": "394",
         "dialing_code": "+355 394"
@@ -23,16 +13,6 @@
         "city": "Bajram Curri",
         "area_code": "213",
         "dialing_code": "+355 213"
-    },
-    {
-        "city": "Bajze",
-        "area_code": "211",
-        "dialing_code": "+355 211"
-    },
-    {
-        "city": "Bajzy",
-        "area_code": "211",
-        "dialing_code": "+355 211"
     },
     {
         "city": "Bajzë",
@@ -60,16 +40,6 @@
         "dialing_code": "+355 811"
     },
     {
-        "city": "Bulqize",
-        "area_code": "219",
-        "dialing_code": "+355 219"
-    },
-    {
-        "city": "Bulqizy",
-        "area_code": "219",
-        "dialing_code": "+355 219"
-    },
-    {
         "city": "Bulqizë",
         "area_code": "219",
         "dialing_code": "+355 219"
@@ -90,26 +60,6 @@
         "dialing_code": "+355 387"
     },
     {
-        "city": "Cerrik",
-        "area_code": "581",
-        "dialing_code": "+355 581"
-    },
-    {
-        "city": "Corovode",
-        "area_code": "312",
-        "dialing_code": "+355 312"
-    },
-    {
-        "city": "Delvine",
-        "area_code": "815",
-        "dialing_code": "+355 815"
-    },
-    {
-        "city": "Delviny",
-        "area_code": "815",
-        "dialing_code": "+355 815"
-    },
-    {
         "city": "Delvinë",
         "area_code": "815",
         "dialing_code": "+355 815"
@@ -120,16 +70,6 @@
         "dialing_code": "+355 815"
     },
     {
-        "city": "Divjake",
-        "area_code": "371",
-        "dialing_code": "+355 371"
-    },
-    {
-        "city": "Divjaky",
-        "area_code": "371",
-        "dialing_code": "+355 371"
-    },
-    {
         "city": "Divjakë",
         "area_code": "371",
         "dialing_code": "+355 371"
@@ -138,16 +78,6 @@
         "city": "Divjaký",
         "area_code": "371",
         "dialing_code": "+355 371"
-    },
-    {
-        "city": "Durres",
-        "area_code": "52",
-        "dialing_code": "+355 52"
-    },
-    {
-        "city": "Durrys",
-        "area_code": "52",
-        "dialing_code": "+355 52"
     },
     {
         "city": "Durrës",
@@ -165,16 +95,6 @@
         "dialing_code": "+355 545"
     },
     {
-        "city": "Erseke",
-        "area_code": "812",
-        "dialing_code": "+355 812"
-    },
-    {
-        "city": "Erseky",
-        "area_code": "812",
-        "dialing_code": "+355 812"
-    },
-    {
         "city": "Ersekë",
         "area_code": "812",
         "dialing_code": "+355 812"
@@ -190,16 +110,6 @@
         "dialing_code": "+355 34"
     },
     {
-        "city": "Fushe",
-        "area_code": "563",
-        "dialing_code": "+355 563"
-    },
-    {
-        "city": "Fushy-Krujy",
-        "area_code": "563",
-        "dialing_code": "+355 563"
-    },
-    {
         "city": "Fushë",
         "area_code": "563",
         "dialing_code": "+355 563"
@@ -208,16 +118,6 @@
         "city": "Fushý-Krujý",
         "area_code": "563",
         "dialing_code": "+355 563"
-    },
-    {
-        "city": "Gjirokaster",
-        "area_code": "84",
-        "dialing_code": "+355 84"
-    },
-    {
-        "city": "Gjirokastyr",
-        "area_code": "84",
-        "dialing_code": "+355 84"
     },
     {
         "city": "Gjirokastër",
@@ -235,16 +135,6 @@
         "dialing_code": "+355 513"
     },
     {
-        "city": "Himare",
-        "area_code": "393",
-        "dialing_code": "+355 393"
-    },
-    {
-        "city": "Himary",
-        "area_code": "393",
-        "dialing_code": "+355 393"
-    },
-    {
         "city": "Himarë",
         "area_code": "393",
         "dialing_code": "+355 393"
@@ -253,16 +143,6 @@
         "city": "Himarý",
         "area_code": "393",
         "dialing_code": "+355 393"
-    },
-    {
-        "city": "Kavaje",
-        "area_code": "554",
-        "dialing_code": "+355 554"
-    },
-    {
-        "city": "Kavajy",
-        "area_code": "554",
-        "dialing_code": "+355 554"
     },
     {
         "city": "Kavajë",
@@ -280,16 +160,6 @@
         "dialing_code": "+355 211"
     },
     {
-        "city": "Korce",
-        "area_code": "82",
-        "dialing_code": "+355 82"
-    },
-    {
-        "city": "Koryy",
-        "area_code": "82",
-        "dialing_code": "+355 82"
-    },
-    {
         "city": "Korçë",
         "area_code": "82",
         "dialing_code": "+355 82"
@@ -300,16 +170,6 @@
         "dialing_code": "+355 82"
     },
     {
-        "city": "Kruje",
-        "area_code": "511",
-        "dialing_code": "+355 511"
-    },
-    {
-        "city": "Krujy",
-        "area_code": "511",
-        "dialing_code": "+355 511"
-    },
-    {
         "city": "Krujë",
         "area_code": "511",
         "dialing_code": "+355 511"
@@ -318,16 +178,6 @@
         "city": "Krujý",
         "area_code": "511",
         "dialing_code": "+355 511"
-    },
-    {
-        "city": "Krume",
-        "area_code": "214",
-        "dialing_code": "+355 214"
-    },
-    {
-        "city": "Krumy",
-        "area_code": "214",
-        "dialing_code": "+355 214"
     },
     {
         "city": "Krumë",
@@ -345,21 +195,6 @@
         "dialing_code": "+355 893"
     },
     {
-        "city": "Kucove",
-        "area_code": "311",
-        "dialing_code": "+355 311"
-    },
-    {
-        "city": "Kukes",
-        "area_code": "242",
-        "dialing_code": "+355 242"
-    },
-    {
-        "city": "Kukys",
-        "area_code": "242",
-        "dialing_code": "+355 242"
-    },
-    {
         "city": "Kukës",
         "area_code": "242",
         "dialing_code": "+355 242"
@@ -370,11 +205,6 @@
         "dialing_code": "+355 242"
     },
     {
-        "city": "Kuyovy",
-        "area_code": "311",
-        "dialing_code": "+355 311"
-    },
-    {
         "city": "Kuçovë",
         "area_code": "311",
         "dialing_code": "+355 311"
@@ -383,16 +213,6 @@
         "city": "Kuýový",
         "area_code": "311",
         "dialing_code": "+355 311"
-    },
-    {
-        "city": "Lac",
-        "area_code": "53",
-        "dialing_code": "+355 53"
-    },
-    {
-        "city": "Lay",
-        "area_code": "53",
-        "dialing_code": "+355 53"
     },
     {
         "city": "Laç",
@@ -410,16 +230,6 @@
         "dialing_code": "+355 388"
     },
     {
-        "city": "Lezhe",
-        "area_code": "215",
-        "dialing_code": "+355 215"
-    },
-    {
-        "city": "Lezhy",
-        "area_code": "215",
-        "dialing_code": "+355 215"
-    },
-    {
         "city": "Lezhë",
         "area_code": "215",
         "dialing_code": "+355 215"
@@ -428,16 +238,6 @@
         "city": "Lezhý",
         "area_code": "215",
         "dialing_code": "+355 215"
-    },
-    {
-        "city": "Libohove",
-        "area_code": "881",
-        "dialing_code": "+355 881"
-    },
-    {
-        "city": "Libohovy",
-        "area_code": "881",
-        "dialing_code": "+355 881"
     },
     {
         "city": "Libohovë",
@@ -453,16 +253,6 @@
         "city": "Librazhd",
         "area_code": "514",
         "dialing_code": "+355 514"
-    },
-    {
-        "city": "Lushnje",
-        "area_code": "35",
-        "dialing_code": "+355 35"
-    },
-    {
-        "city": "Lushnjy",
-        "area_code": "35",
-        "dialing_code": "+355 35"
     },
     {
         "city": "Lushnjë",
@@ -510,16 +300,6 @@
         "dialing_code": "+355 512"
     },
     {
-        "city": "Permet",
-        "area_code": "813",
-        "dialing_code": "+355 813"
-    },
-    {
-        "city": "Perrenjas",
-        "area_code": "591",
-        "dialing_code": "+355 591"
-    },
-    {
         "city": "Peshkopi",
         "area_code": "218",
         "dialing_code": "+355 218"
@@ -528,16 +308,6 @@
         "city": "Pogradec",
         "area_code": "832",
         "dialing_code": "+355 832"
-    },
-    {
-        "city": "Polican",
-        "area_code": "368",
-        "dialing_code": "+355 368"
-    },
-    {
-        "city": "Poliyan",
-        "area_code": "368",
-        "dialing_code": "+355 368"
     },
     {
         "city": "Poliçan",
@@ -550,16 +320,6 @@
         "dialing_code": "+355 368"
     },
     {
-        "city": "Puke",
-        "area_code": "212",
-        "dialing_code": "+355 212"
-    },
-    {
-        "city": "Puky",
-        "area_code": "212",
-        "dialing_code": "+355 212"
-    },
-    {
         "city": "Pukë",
         "area_code": "212",
         "dialing_code": "+355 212"
@@ -568,16 +328,6 @@
         "city": "Puký",
         "area_code": "212",
         "dialing_code": "+355 212"
-    },
-    {
-        "city": "Pyrmet",
-        "area_code": "813",
-        "dialing_code": "+355 813"
-    },
-    {
-        "city": "Pyrrenjas",
-        "area_code": "591",
-        "dialing_code": "+355 591"
     },
     {
         "city": "Përmet",
@@ -600,21 +350,6 @@
         "dialing_code": "+355 591"
     },
     {
-        "city": "Rreshen",
-        "area_code": "216",
-        "dialing_code": "+355 216"
-    },
-    {
-        "city": "Rrogozhine",
-        "area_code": "577",
-        "dialing_code": "+355 577"
-    },
-    {
-        "city": "Rrogozhiny",
-        "area_code": "577",
-        "dialing_code": "+355 577"
-    },
-    {
         "city": "Rrogozhinë",
         "area_code": "577",
         "dialing_code": "+355 577"
@@ -623,11 +358,6 @@
         "city": "Rrogozhiný",
         "area_code": "577",
         "dialing_code": "+355 577"
-    },
-    {
-        "city": "Rryshen",
-        "area_code": "216",
-        "dialing_code": "+355 216"
     },
     {
         "city": "Rrëshen",
@@ -640,16 +370,6 @@
         "dialing_code": "+355 216"
     },
     {
-        "city": "Sarande",
-        "area_code": "852",
-        "dialing_code": "+355 852"
-    },
-    {
-        "city": "Sarandy",
-        "area_code": "852",
-        "dialing_code": "+355 852"
-    },
-    {
         "city": "Sarandë",
         "area_code": "852",
         "dialing_code": "+355 852"
@@ -658,16 +378,6 @@
         "city": "Sarandý",
         "area_code": "852",
         "dialing_code": "+355 852"
-    },
-    {
-        "city": "Selenice",
-        "area_code": "392",
-        "dialing_code": "+355 392"
-    },
-    {
-        "city": "Selenicy",
-        "area_code": "392",
-        "dialing_code": "+355 392"
     },
     {
         "city": "Selenicë",
@@ -690,24 +400,9 @@
         "dialing_code": "+355 22"
     },
     {
-        "city": "Shkodyr",
-        "area_code": "22",
-        "dialing_code": "+355 22"
-    },
-    {
         "city": "Shkodýr",
         "area_code": "22",
         "dialing_code": "+355 22"
-    },
-    {
-        "city": "Tepelene",
-        "area_code": "814",
-        "dialing_code": "+355 814"
-    },
-    {
-        "city": "Tepeleny",
-        "area_code": "814",
-        "dialing_code": "+355 814"
     },
     {
         "city": "Tepelenë",
@@ -730,24 +425,9 @@
         "dialing_code": "+355 4"
     },
     {
-        "city": "Tirany",
-        "area_code": "4",
-        "dialing_code": "+355 4"
-    },
-    {
         "city": "Tiraný",
         "area_code": "4",
         "dialing_code": "+355 4"
-    },
-    {
-        "city": "Tropoje",
-        "area_code": "213",
-        "dialing_code": "+355 213"
-    },
-    {
-        "city": "Tropojy",
-        "area_code": "213",
-        "dialing_code": "+355 213"
     },
     {
         "city": "Tropojë",
@@ -765,16 +445,6 @@
         "dialing_code": "+355 361"
     },
     {
-        "city": "Vlore",
-        "area_code": "33",
-        "dialing_code": "+355 33"
-    },
-    {
-        "city": "Vlory",
-        "area_code": "33",
-        "dialing_code": "+355 33"
-    },
-    {
         "city": "Vlorë",
         "area_code": "33",
         "dialing_code": "+355 33"
@@ -788,16 +458,6 @@
         "city": "Vodafone",
         "area_code": "69",
         "dialing_code": "+355 69"
-    },
-    {
-        "city": "yorovody",
-        "area_code": "312",
-        "dialing_code": "+355 312"
-    },
-    {
-        "city": "yyrrik",
-        "area_code": "581",
-        "dialing_code": "+355 581"
     },
     {
         "city": "Çorovodë",

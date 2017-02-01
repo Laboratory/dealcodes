@@ -440,11 +440,6 @@
         "dialing_code": "+264 67"
     },
     {
-        "city": "Koes",
-        "area_code": "63",
-        "dialing_code": "+264 63"
-    },
-    {
         "city": "Koes (party line)",
         "area_code": "632532",
         "dialing_code": "+264 632532"
@@ -468,11 +463,6 @@
         "city": "Kunene River Lodge",
         "area_code": "65",
         "dialing_code": "+264 65"
-    },
-    {
-        "city": "Kyes",
-        "area_code": "63",
-        "dialing_code": "+264 63"
     },
     {
         "city": "Köes",
@@ -1065,11 +1055,6 @@
         "dialing_code": "+264 64"
     },
     {
-        "city": "Rossing Mine",
-        "area_code": "64",
-        "dialing_code": "+264 64"
-    },
-    {
         "city": "Ruacana",
         "area_code": "65",
         "dialing_code": "+264 65"
@@ -1088,11 +1073,6 @@
         "city": "Ruuga",
         "area_code": "66",
         "dialing_code": "+264 66"
-    },
-    {
-        "city": "Ryssing Mine",
-        "area_code": "64",
-        "dialing_code": "+264 64"
     },
     {
         "city": "Rössing Mine",

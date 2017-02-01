@@ -55,11 +55,6 @@
         "dialing_code": "+373 243"
     },
     {
-        "city": "Ceadyr ? Lunga",
-        "area_code": "291",
-        "dialing_code": "+373 291"
-    },
-    {
         "city": "Ceadýr ? Lunga",
         "area_code": "291",
         "dialing_code": "+373 291"
@@ -135,16 +130,6 @@
         "dialing_code": "+373 269"
     },
     {
-        "city": "Hincesti",
-        "area_code": "269",
-        "dialing_code": "+373 269"
-    },
-    {
-        "city": "Hyncesti",
-        "area_code": "269",
-        "dialing_code": "+373 269"
-    },
-    {
         "city": "Hîncesti",
         "area_code": "269",
         "dialing_code": "+373 269"
@@ -185,26 +170,6 @@
         "dialing_code": "+373 254"
     },
     {
-        "city": "Ribnita",
-        "area_code": "555",
-        "dialing_code": "+373 555"
-    },
-    {
-        "city": "Riscani",
-        "area_code": "256",
-        "dialing_code": "+373 256"
-    },
-    {
-        "city": "Rybnita",
-        "area_code": "555",
-        "dialing_code": "+373 555"
-    },
-    {
-        "city": "Ryscani",
-        "area_code": "256",
-        "dialing_code": "+373 256"
-    },
-    {
         "city": "Rîbnita",
         "area_code": "555",
         "dialing_code": "+373 555"
@@ -223,11 +188,6 @@
         "city": "Rýscani",
         "area_code": "256",
         "dialing_code": "+373 256"
-    },
-    {
-        "city": "Singerei",
-        "area_code": "262",
-        "dialing_code": "+373 262"
     },
     {
         "city": "Slobozia",
@@ -253,11 +213,6 @@
         "city": "Straseni",
         "area_code": "237",
         "dialing_code": "+373 237"
-    },
-    {
-        "city": "Syngerei",
-        "area_code": "262",
-        "dialing_code": "+373 262"
     },
     {
         "city": "Sîngerei",

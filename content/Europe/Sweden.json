@@ -10,16 +10,6 @@
         "dialing_code": "+46 271"
     },
     {
-        "city": "Alingsas",
-        "area_code": "322",
-        "dialing_code": "+46 322"
-    },
-    {
-        "city": "Alingsys-Vyrgyrda",
-        "area_code": "322",
-        "dialing_code": "+46 322"
-    },
-    {
         "city": "Alingsås",
         "area_code": "322",
         "dialing_code": "+46 322"
@@ -30,19 +20,9 @@
         "dialing_code": "+46 322"
     },
     {
-        "city": "Almhult",
-        "area_code": "476",
-        "dialing_code": "+46 476"
-    },
-    {
         "city": "Alunda",
         "area_code": "174",
         "dialing_code": "+46 174"
-    },
-    {
-        "city": "Alvdalen",
-        "area_code": "251",
-        "dialing_code": "+46 251"
     },
     {
         "city": "Alvesta",
@@ -55,39 +35,9 @@
         "dialing_code": "+46 472"
     },
     {
-        "city": "Alvsbyn",
-        "area_code": "929",
-        "dialing_code": "+46 929"
-    },
-    {
-        "city": "Amal",
-        "area_code": "532",
-        "dialing_code": "+46 532"
-    },
-    {
-        "city": "Ange",
-        "area_code": "690",
-        "dialing_code": "+46 690"
-    },
-    {
-        "city": "Angelholm",
-        "area_code": "431",
-        "dialing_code": "+46 431"
-    },
-    {
         "city": "Arboga",
         "area_code": "589",
         "dialing_code": "+46 589"
-    },
-    {
-        "city": "Are",
-        "area_code": "647",
-        "dialing_code": "+46 647"
-    },
-    {
-        "city": "Arjang",
-        "area_code": "573",
-        "dialing_code": "+46 573"
     },
     {
         "city": "Arjeplog",
@@ -105,24 +55,9 @@
         "dialing_code": "+46 570"
     },
     {
-        "city": "Aseda",
-        "area_code": "474",
-        "dialing_code": "+46 474"
-    },
-    {
-        "city": "Asele",
-        "area_code": "941",
-        "dialing_code": "+46 941"
-    },
-    {
         "city": "Askersund",
         "area_code": "583",
         "dialing_code": "+46 583"
-    },
-    {
-        "city": "Atvidaberg",
-        "area_code": "120",
-        "dialing_code": "+46 120"
     },
     {
         "city": "Avesta",
@@ -140,16 +75,6 @@
         "dialing_code": "+46 624"
     },
     {
-        "city": "Bastutrask",
-        "area_code": "915",
-        "dialing_code": "+46 915"
-    },
-    {
-        "city": "Bastutrysk",
-        "area_code": "915",
-        "dialing_code": "+46 915"
-    },
-    {
         "city": "Bastuträsk",
         "area_code": "915",
         "dialing_code": "+46 915"
@@ -165,16 +90,6 @@
         "dialing_code": "+46 531"
     },
     {
-        "city": "Bergsjo",
-        "area_code": "652",
-        "dialing_code": "+46 652"
-    },
-    {
-        "city": "Bergsjy",
-        "area_code": "652",
-        "dialing_code": "+46 652"
-    },
-    {
         "city": "Bergsjö",
         "area_code": "652",
         "dialing_code": "+46 652"
@@ -185,19 +100,9 @@
         "dialing_code": "+46 652"
     },
     {
-        "city": "Bjorna",
-        "area_code": "662",
-        "dialing_code": "+46 662"
-    },
-    {
         "city": "Bjurholm",
         "area_code": "932",
         "dialing_code": "+46 932"
-    },
-    {
-        "city": "Bjyrna",
-        "area_code": "662",
-        "dialing_code": "+46 662"
     },
     {
         "city": "Björna",
@@ -215,16 +120,6 @@
         "dialing_code": "+46 921"
     },
     {
-        "city": "Bollnas",
-        "area_code": "278",
-        "dialing_code": "+46 278"
-    },
-    {
-        "city": "Bollnys",
-        "area_code": "278",
-        "dialing_code": "+46 278"
-    },
-    {
         "city": "Bollnäs",
         "area_code": "278",
         "dialing_code": "+46 278"
@@ -233,21 +128,6 @@
         "city": "Bollnýs",
         "area_code": "278",
         "dialing_code": "+46 278"
-    },
-    {
-        "city": "Boras",
-        "area_code": "33",
-        "dialing_code": "+46 33"
-    },
-    {
-        "city": "Borlange",
-        "area_code": "243",
-        "dialing_code": "+46 243"
-    },
-    {
-        "city": "Borlynge",
-        "area_code": "243",
-        "dialing_code": "+46 243"
     },
     {
         "city": "Borlänge",
@@ -260,11 +140,6 @@
         "dialing_code": "+46 243"
     },
     {
-        "city": "Borys",
-        "area_code": "33",
-        "dialing_code": "+46 33"
-    },
-    {
         "city": "Borås",
         "area_code": "33",
         "dialing_code": "+46 33"
@@ -275,19 +150,9 @@
         "dialing_code": "+46 33"
     },
     {
-        "city": "Bracke",
-        "area_code": "693",
-        "dialing_code": "+46 693"
-    },
-    {
         "city": "Bredbyn",
         "area_code": "661",
         "dialing_code": "+46 661"
-    },
-    {
-        "city": "Brycke-Gylly",
-        "area_code": "693",
-        "dialing_code": "+46 693"
     },
     {
         "city": "Bräcke",
@@ -298,16 +163,6 @@
         "city": "Brýcke-Gýllý",
         "area_code": "693",
         "dialing_code": "+46 693"
-    },
-    {
-        "city": "Burtrask",
-        "area_code": "914",
-        "dialing_code": "+46 914"
-    },
-    {
-        "city": "Burtrysk",
-        "area_code": "914",
-        "dialing_code": "+46 914"
     },
     {
         "city": "Burträsk",
@@ -326,11 +181,6 @@
     },
     {
         "city": "Charlottenberg",
-        "area_code": "571",
-        "dialing_code": "+46 571"
-    },
-    {
-        "city": "Charlottenberg-ymotfors",
         "area_code": "571",
         "dialing_code": "+46 571"
     },
@@ -360,16 +210,6 @@
         "dialing_code": "+46 534"
     },
     {
-        "city": "Eksjo",
-        "area_code": "381",
-        "dialing_code": "+46 381"
-    },
-    {
-        "city": "Eksjy",
-        "area_code": "381",
-        "dialing_code": "+46 381"
-    },
-    {
         "city": "Eksjö",
         "area_code": "381",
         "dialing_code": "+46 381"
@@ -383,16 +223,6 @@
         "city": "Emmaboda",
         "area_code": "471",
         "dialing_code": "+46 471"
-    },
-    {
-        "city": "Enkoping",
-        "area_code": "171",
-        "dialing_code": "+46 171"
-    },
-    {
-        "city": "Enkyping",
-        "area_code": "171",
-        "dialing_code": "+46 171"
     },
     {
         "city": "Enköping",
@@ -410,24 +240,9 @@
         "dialing_code": "+46 16"
     },
     {
-        "city": "Eskilstuna-Torshylla",
-        "area_code": "16",
-        "dialing_code": "+46 16"
-    },
-    {
         "city": "Eskilstuna-Torshýlla",
         "area_code": "16",
         "dialing_code": "+46 16"
-    },
-    {
-        "city": "Eslov",
-        "area_code": "413",
-        "dialing_code": "+46 413"
-    },
-    {
-        "city": "Eslyv-Hyyr",
-        "area_code": "413",
-        "dialing_code": "+46 413"
     },
     {
         "city": "Eslöv",
@@ -455,16 +270,6 @@
         "dialing_code": "+46 346"
     },
     {
-        "city": "Falkoping",
-        "area_code": "515",
-        "dialing_code": "+46 515"
-    },
-    {
-        "city": "Falkyping",
-        "area_code": "515",
-        "dialing_code": "+46 515"
-    },
-    {
         "city": "Falköping",
         "area_code": "515",
         "dialing_code": "+46 515"
@@ -480,24 +285,9 @@
         "dialing_code": "+46 23"
     },
     {
-        "city": "Fargelanda",
-        "area_code": "528",
-        "dialing_code": "+46 528"
-    },
-    {
         "city": "Filipstad",
         "area_code": "590",
         "dialing_code": "+46 590"
-    },
-    {
-        "city": "Finspang",
-        "area_code": "122",
-        "dialing_code": "+46 122"
-    },
-    {
-        "city": "Finspyng",
-        "area_code": "122",
-        "dialing_code": "+46 122"
     },
     {
         "city": "Finspång",
@@ -515,11 +305,6 @@
         "dialing_code": "+46 585"
     },
     {
-        "city": "Fjugesta-Svarty",
-        "area_code": "585",
-        "dialing_code": "+46 585"
-    },
-    {
         "city": "Fjugesta-Svartý",
         "area_code": "585",
         "dialing_code": "+46 585"
@@ -530,19 +315,9 @@
         "dialing_code": "+46 157"
     },
     {
-        "city": "Flen-Malmkyping",
-        "area_code": "157",
-        "dialing_code": "+46 157"
-    },
-    {
         "city": "Flen-Malmkýping",
         "area_code": "157",
         "dialing_code": "+46 157"
-    },
-    {
-        "city": "Follinge",
-        "area_code": "645",
-        "dialing_code": "+46 645"
     },
     {
         "city": "Fredrika",
@@ -553,16 +328,6 @@
         "city": "Furudal",
         "area_code": "258",
         "dialing_code": "+46 258"
-    },
-    {
-        "city": "Fyllinge",
-        "area_code": "645",
-        "dialing_code": "+46 645"
-    },
-    {
-        "city": "Fyrgelanda",
-        "area_code": "528",
-        "dialing_code": "+46 528"
     },
     {
         "city": "Färgelanda",
@@ -600,19 +365,9 @@
         "dialing_code": "+46 241"
     },
     {
-        "city": "Gallivare",
-        "area_code": "970",
-        "dialing_code": "+46 970"
-    },
-    {
         "city": "Gamleby",
         "area_code": "493",
         "dialing_code": "+46 493"
-    },
-    {
-        "city": "Gavle",
-        "area_code": "26",
-        "dialing_code": "+46 26"
     },
     {
         "city": "Gislaved",
@@ -630,17 +385,7 @@
         "dialing_code": "+46 158"
     },
     {
-        "city": "Goteborg",
-        "area_code": "31",
-        "dialing_code": "+46 31"
-    },
-    {
         "city": "Gothenburg",
-        "area_code": "31",
-        "dialing_code": "+46 31"
-    },
-    {
-        "city": "Gothenburg (Goteborg)",
         "area_code": "31",
         "dialing_code": "+46 31"
     },
@@ -655,16 +400,6 @@
         "dialing_code": "+46 498"
     },
     {
-        "city": "Granna",
-        "area_code": "390",
-        "dialing_code": "+46 390"
-    },
-    {
-        "city": "Grastorp",
-        "area_code": "514",
-        "dialing_code": "+46 514"
-    },
-    {
         "city": "Grebbestad",
         "area_code": "525",
         "dialing_code": "+46 525"
@@ -673,16 +408,6 @@
         "city": "Grums",
         "area_code": "555",
         "dialing_code": "+46 555"
-    },
-    {
-        "city": "Grynna",
-        "area_code": "390",
-        "dialing_code": "+46 390"
-    },
-    {
-        "city": "Grystorp",
-        "area_code": "514",
-        "dialing_code": "+46 514"
     },
     {
         "city": "Gränna",
@@ -705,16 +430,6 @@
         "dialing_code": "+46 514"
     },
     {
-        "city": "Gullspang",
-        "area_code": "551",
-        "dialing_code": "+46 551"
-    },
-    {
-        "city": "Gullspyng",
-        "area_code": "551",
-        "dialing_code": "+46 551"
-    },
-    {
         "city": "Gullspång",
         "area_code": "551",
         "dialing_code": "+46 551"
@@ -723,26 +438,6 @@
         "city": "Gullspýng",
         "area_code": "551",
         "dialing_code": "+46 551"
-    },
-    {
-        "city": "Gyddede",
-        "area_code": "672",
-        "dialing_code": "+46 672"
-    },
-    {
-        "city": "Gyllivare",
-        "area_code": "970",
-        "dialing_code": "+46 970"
-    },
-    {
-        "city": "Gyteborg",
-        "area_code": "31",
-        "dialing_code": "+46 31"
-    },
-    {
-        "city": "Gyvle-Sandviken",
-        "area_code": "26",
-        "dialing_code": "+46 26"
     },
     {
         "city": "Gällivare",
@@ -793,11 +488,6 @@
         "city": "Hakkas",
         "area_code": "975",
         "dialing_code": "+46 975"
-    },
-    {
-        "city": "Hallefors",
-        "area_code": "591",
-        "dialing_code": "+46 591"
     },
     {
         "city": "Hallen",
@@ -860,22 +550,7 @@
         "dialing_code": "+46 928"
     },
     {
-        "city": "Harnosand",
-        "area_code": "611",
-        "dialing_code": "+46 611"
-    },
-    {
-        "city": "Hassleholm",
-        "area_code": "451",
-        "dialing_code": "+46 451"
-    },
-    {
         "city": "Hede",
-        "area_code": "684",
-        "dialing_code": "+46 684"
-    },
-    {
-        "city": "Hede-Funysdalen",
         "area_code": "684",
         "dialing_code": "+46 684"
     },
@@ -890,22 +565,12 @@
         "dialing_code": "+46 225"
     },
     {
-        "city": "Hedemora-Syter",
-        "area_code": "225",
-        "dialing_code": "+46 225"
-    },
-    {
         "city": "Hedemora-Sýter",
         "area_code": "225",
         "dialing_code": "+46 225"
     },
     {
         "city": "Hedesunda",
-        "area_code": "291",
-        "dialing_code": "+46 291"
-    },
-    {
-        "city": "Hedesunda-ysterfyrnebo",
         "area_code": "291",
         "dialing_code": "+46 291"
     },
@@ -920,11 +585,6 @@
         "dialing_code": "+46 42"
     },
     {
-        "city": "Helsingborg-Hyganys",
-        "area_code": "42",
-        "dialing_code": "+46 42"
-    },
-    {
         "city": "Helsingborg-Hýganýs",
         "area_code": "42",
         "dialing_code": "+46 42"
@@ -933,16 +593,6 @@
         "city": "Herrljunga",
         "area_code": "513",
         "dialing_code": "+46 513"
-    },
-    {
-        "city": "Hindas",
-        "area_code": "301",
-        "dialing_code": "+46 301"
-    },
-    {
-        "city": "Hindys",
-        "area_code": "301",
-        "dialing_code": "+46 301"
     },
     {
         "city": "Hindås",
@@ -970,11 +620,6 @@
         "dialing_code": "+46 290"
     },
     {
-        "city": "Horby",
-        "area_code": "415",
-        "dialing_code": "+46 415"
-    },
-    {
         "city": "Hoting",
         "area_code": "671",
         "dialing_code": "+46 671"
@@ -1000,11 +645,6 @@
         "dialing_code": "+46 663"
     },
     {
-        "city": "Hyllefors-Grythyttan",
-        "area_code": "591",
-        "dialing_code": "+46 591"
-    },
-    {
         "city": "Hyltebruk",
         "area_code": "345",
         "dialing_code": "+46 345"
@@ -1013,21 +653,6 @@
         "city": "Hyltebruk-Torup",
         "area_code": "345",
         "dialing_code": "+46 345"
-    },
-    {
-        "city": "Hyrby",
-        "area_code": "415",
-        "dialing_code": "+46 415"
-    },
-    {
-        "city": "Hyrnysand",
-        "area_code": "611",
-        "dialing_code": "+46 611"
-    },
-    {
-        "city": "Hyssleholm",
-        "area_code": "451",
-        "dialing_code": "+46 451"
     },
     {
         "city": "Hällefors",
@@ -1075,11 +700,6 @@
         "dialing_code": "+46 253"
     },
     {
-        "city": "Idre-Syrna",
-        "area_code": "253",
-        "dialing_code": "+46 253"
-    },
-    {
         "city": "Idre-Sýrna",
         "area_code": "253",
         "dialing_code": "+46 253"
@@ -1090,29 +710,9 @@
         "dialing_code": "+46 971"
     },
     {
-        "city": "Jonkoping",
-        "area_code": "36",
-        "dialing_code": "+46 36"
-    },
-    {
-        "city": "Jorn",
-        "area_code": "916",
-        "dialing_code": "+46 916"
-    },
-    {
         "city": "Junsele",
         "area_code": "621",
         "dialing_code": "+46 621"
-    },
-    {
-        "city": "Jynkyping-Huskvarna",
-        "area_code": "36",
-        "dialing_code": "+46 36"
-    },
-    {
-        "city": "Jyrn",
-        "area_code": "916",
-        "dialing_code": "+46 916"
     },
     {
         "city": "Jönköping",
@@ -1150,11 +750,6 @@
         "dialing_code": "+46 294"
     },
     {
-        "city": "Karlholmsbruk-Skyrplinge",
-        "area_code": "294",
-        "dialing_code": "+46 294"
-    },
-    {
         "city": "Karlholmsbruk-Skýrplinge",
         "area_code": "294",
         "dialing_code": "+46 294"
@@ -1166,11 +761,6 @@
     },
     {
         "city": "Karlshamn",
-        "area_code": "454",
-        "dialing_code": "+46 454"
-    },
-    {
-        "city": "Karlshamn-Olofstrym",
         "area_code": "454",
         "dialing_code": "+46 454"
     },
@@ -1235,11 +825,6 @@
         "dialing_code": "+46 435"
     },
     {
-        "city": "Koping",
-        "area_code": "221",
-        "dialing_code": "+46 221"
-    },
-    {
         "city": "Kopparberg",
         "area_code": "580",
         "dialing_code": "+46 580"
@@ -1270,24 +855,9 @@
         "dialing_code": "+46 640"
     },
     {
-        "city": "Kungalv",
-        "area_code": "303",
-        "dialing_code": "+46 303"
-    },
-    {
         "city": "Kungsbacka",
         "area_code": "300",
         "dialing_code": "+46 300"
-    },
-    {
-        "city": "Kungsor",
-        "area_code": "227",
-        "dialing_code": "+46 227"
-    },
-    {
-        "city": "Kungsyr",
-        "area_code": "227",
-        "dialing_code": "+46 227"
     },
     {
         "city": "Kungsör",
@@ -1300,11 +870,6 @@
         "dialing_code": "+46 227"
     },
     {
-        "city": "Kungylv",
-        "area_code": "303",
-        "dialing_code": "+46 303"
-    },
-    {
         "city": "Kungälv",
         "area_code": "303",
         "dialing_code": "+46 303"
@@ -1313,11 +878,6 @@
         "city": "Kungýlv",
         "area_code": "303",
         "dialing_code": "+46 303"
-    },
-    {
-        "city": "Kyping",
-        "area_code": "221",
-        "dialing_code": "+46 221"
     },
     {
         "city": "Köping",
@@ -1335,16 +895,6 @@
         "dialing_code": "+46 430"
     },
     {
-        "city": "Lakatrask",
-        "area_code": "925",
-        "dialing_code": "+46 925"
-    },
-    {
-        "city": "Lakatrysk",
-        "area_code": "925",
-        "dialing_code": "+46 925"
-    },
-    {
         "city": "Lakaträsk",
         "area_code": "925",
         "dialing_code": "+46 925"
@@ -1360,24 +910,9 @@
         "dialing_code": "+46 418"
     },
     {
-        "city": "Landskrona-Svalyv",
-        "area_code": "418",
-        "dialing_code": "+46 418"
-    },
-    {
         "city": "Landskrona-Svalýv",
         "area_code": "418",
         "dialing_code": "+46 418"
-    },
-    {
-        "city": "Laxa",
-        "area_code": "584",
-        "dialing_code": "+46 584"
-    },
-    {
-        "city": "Laxy",
-        "area_code": "584",
-        "dialing_code": "+46 584"
     },
     {
         "city": "Laxå",
@@ -1391,11 +926,6 @@
     },
     {
         "city": "Leksand",
-        "area_code": "247",
-        "dialing_code": "+46 247"
-    },
-    {
-        "city": "Leksand-Insjyn",
         "area_code": "247",
         "dialing_code": "+46 247"
     },
@@ -1420,16 +950,6 @@
         "dialing_code": "+46 692"
     },
     {
-        "city": "Lidkoping",
-        "area_code": "510",
-        "dialing_code": "+46 510"
-    },
-    {
-        "city": "Lidkyping",
-        "area_code": "510",
-        "dialing_code": "+46 510"
-    },
-    {
         "city": "Lidköping",
         "area_code": "510",
         "dialing_code": "+46 510"
@@ -1443,16 +963,6 @@
         "city": "Lindesberg",
         "area_code": "581",
         "dialing_code": "+46 581"
-    },
-    {
-        "city": "Linkoping",
-        "area_code": "13",
-        "dialing_code": "+46 13"
-    },
-    {
-        "city": "Linkyping",
-        "area_code": "13",
-        "dialing_code": "+46 13"
     },
     {
         "city": "Linköping",
@@ -1485,11 +995,6 @@
         "dialing_code": "+46 657"
     },
     {
-        "city": "Lovanger",
-        "area_code": "913",
-        "dialing_code": "+46 913"
-    },
-    {
         "city": "Ludvika",
         "area_code": "240",
         "dialing_code": "+46 240"
@@ -1498,16 +1003,6 @@
         "city": "Ludvika-Smedjebacken",
         "area_code": "240",
         "dialing_code": "+46 240"
-    },
-    {
-        "city": "Lulea",
-        "area_code": "920",
-        "dialing_code": "+46 920"
-    },
-    {
-        "city": "Luley",
-        "area_code": "920",
-        "dialing_code": "+46 920"
     },
     {
         "city": "Luleå",
@@ -1535,11 +1030,6 @@
         "dialing_code": "+46 523"
     },
     {
-        "city": "Lyvynger",
-        "area_code": "913",
-        "dialing_code": "+46 913"
-    },
-    {
         "city": "Lövånger",
         "area_code": "913",
         "dialing_code": "+46 913"
@@ -1548,21 +1038,6 @@
         "city": "Lývýnger",
         "area_code": "913",
         "dialing_code": "+46 913"
-    },
-    {
-        "city": "Mala",
-        "area_code": "953",
-        "dialing_code": "+46 953"
-    },
-    {
-        "city": "Malmo",
-        "area_code": "40",
-        "dialing_code": "+46 40"
-    },
-    {
-        "city": "Malmy",
-        "area_code": "40",
-        "dialing_code": "+46 40"
     },
     {
         "city": "Malmö",
@@ -1578,11 +1053,6 @@
         "city": "Malung",
         "area_code": "280",
         "dialing_code": "+46 280"
-    },
-    {
-        "city": "Maly",
-        "area_code": "953",
-        "dialing_code": "+46 953"
     },
     {
         "city": "Malå",
@@ -1615,11 +1085,6 @@
         "dialing_code": "+46 433"
     },
     {
-        "city": "Markaryd-Strymsnysbruk",
-        "area_code": "433",
-        "dialing_code": "+46 433"
-    },
-    {
         "city": "Markaryd-Strýmsnýsbruk",
         "area_code": "433",
         "dialing_code": "+46 433"
@@ -1628,16 +1093,6 @@
         "city": "Mellerud",
         "area_code": "530",
         "dialing_code": "+46 530"
-    },
-    {
-        "city": "Mjolby",
-        "area_code": "142",
-        "dialing_code": "+46 142"
-    },
-    {
-        "city": "Mjylby-Skynninge-Boxholm",
-        "area_code": "142",
-        "dialing_code": "+46 142"
     },
     {
         "city": "Mjölby",
@@ -1655,11 +1110,6 @@
         "dialing_code": "+46 553"
     },
     {
-        "city": "Monsteras",
-        "area_code": "499",
-        "dialing_code": "+46 499"
-    },
-    {
         "city": "Mora-Orsa",
         "area_code": "250",
         "dialing_code": "+46 250"
@@ -1668,16 +1118,6 @@
         "city": "Motala",
         "area_code": "141",
         "dialing_code": "+46 141"
-    },
-    {
-        "city": "Mullsjo",
-        "area_code": "392",
-        "dialing_code": "+46 392"
-    },
-    {
-        "city": "Mullsjy",
-        "area_code": "392",
-        "dialing_code": "+46 392"
     },
     {
         "city": "Mullsjö",
@@ -1695,11 +1135,6 @@
         "dialing_code": "+46 524"
     },
     {
-        "city": "Mynsterys",
-        "area_code": "499",
-        "dialing_code": "+46 499"
-    },
-    {
         "city": "Mönsterås",
         "area_code": "499",
         "dialing_code": "+46 499"
@@ -1708,16 +1143,6 @@
         "city": "Mýnsterýs",
         "area_code": "499",
         "dialing_code": "+46 499"
-    },
-    {
-        "city": "Nasaker",
-        "area_code": "622",
-        "dialing_code": "+46 622"
-    },
-    {
-        "city": "Nassjo",
-        "area_code": "380",
-        "dialing_code": "+46 380"
     },
     {
         "city": "Nora",
@@ -1730,16 +1155,6 @@
         "dialing_code": "+46 930"
     },
     {
-        "city": "Norrkoping",
-        "area_code": "11",
-        "dialing_code": "+46 11"
-    },
-    {
-        "city": "Norrkyping",
-        "area_code": "11",
-        "dialing_code": "+46 11"
-    },
-    {
         "city": "Norrköping",
         "area_code": "11",
         "dialing_code": "+46 11"
@@ -1750,16 +1165,6 @@
         "dialing_code": "+46 11"
     },
     {
-        "city": "Norrtalje",
-        "area_code": "176",
-        "dialing_code": "+46 176"
-    },
-    {
-        "city": "Norrtylje",
-        "area_code": "176",
-        "dialing_code": "+46 176"
-    },
-    {
         "city": "Norrtälje",
         "area_code": "176",
         "dialing_code": "+46 176"
@@ -1768,16 +1173,6 @@
         "city": "Norrtýlje",
         "area_code": "176",
         "dialing_code": "+46 176"
-    },
-    {
-        "city": "Norsjo",
-        "area_code": "918",
-        "dialing_code": "+46 918"
-    },
-    {
-        "city": "Norsjy",
-        "area_code": "918",
-        "dialing_code": "+46 918"
     },
     {
         "city": "Norsjö",
@@ -1795,16 +1190,6 @@
         "dialing_code": "+46 481"
     },
     {
-        "city": "Nykoping",
-        "area_code": "155",
-        "dialing_code": "+46 155"
-    },
-    {
-        "city": "Nykyping-Oxelysund",
-        "area_code": "155",
-        "dialing_code": "+46 155"
-    },
-    {
         "city": "Nyköping",
         "area_code": "155",
         "dialing_code": "+46 155"
@@ -1813,16 +1198,6 @@
         "city": "Nykýping-Oxelýsund",
         "area_code": "155",
         "dialing_code": "+46 155"
-    },
-    {
-        "city": "Nyssjy",
-        "area_code": "380",
-        "dialing_code": "+46 380"
-    },
-    {
-        "city": "Nysyker",
-        "area_code": "622",
-        "dialing_code": "+46 622"
     },
     {
         "city": "Nässjö",
@@ -1850,52 +1225,12 @@
         "dialing_code": "+46 297"
     },
     {
-        "city": "Ockelbo-Hamrynge",
-        "area_code": "297",
-        "dialing_code": "+46 297"
-    },
-    {
         "city": "Ockelbo-Hamrýnge",
         "area_code": "297",
         "dialing_code": "+46 297"
     },
     {
-        "city": "Odeshog",
-        "area_code": "144",
-        "dialing_code": "+46 144"
-    },
-    {
-        "city": "Oland",
-        "area_code": "485",
-        "dialing_code": "+46 485"
-    },
-    {
-        "city": "Orbyhus",
-        "area_code": "295",
-        "dialing_code": "+46 295"
-    },
-    {
-        "city": "Orebro",
-        "area_code": "173",
-        "dialing_code": "+46 173"
-    },
-    {
-        "city": "Oregrund",
-        "area_code": "173",
-        "dialing_code": "+46 173"
-    },
-    {
-        "city": "Ornskoldsvik",
-        "area_code": "660",
-        "dialing_code": "+46 660"
-    },
-    {
         "city": "Orust",
-        "area_code": "304",
-        "dialing_code": "+46 304"
-    },
-    {
-        "city": "Orust-Tjyrn",
         "area_code": "304",
         "dialing_code": "+46 304"
     },
@@ -1915,44 +1250,14 @@
         "dialing_code": "+46 491"
     },
     {
-        "city": "Oskarshamn-Hygsby",
-        "area_code": "491",
-        "dialing_code": "+46 491"
-    },
-    {
         "city": "Oskarshamn-Hýgsby",
         "area_code": "491",
         "dialing_code": "+46 491"
     },
     {
-        "city": "Ostersund",
-        "area_code": "63",
-        "dialing_code": "+46 63"
-    },
-    {
-        "city": "Overkalix",
-        "area_code": "926",
-        "dialing_code": "+46 926"
-    },
-    {
-        "city": "Overtornea",
-        "area_code": "927",
-        "dialing_code": "+46 927"
-    },
-    {
         "city": "Pajala",
         "area_code": "978",
         "dialing_code": "+46 978"
-    },
-    {
-        "city": "Pitea",
-        "area_code": "911",
-        "dialing_code": "+46 911"
-    },
-    {
-        "city": "Pitey",
-        "area_code": "911",
-        "dialing_code": "+46 911"
     },
     {
         "city": "Piteå",
@@ -1975,21 +1280,6 @@
         "dialing_code": "+46 623"
     },
     {
-        "city": "Ranea",
-        "area_code": "924",
-        "dialing_code": "+46 924"
-    },
-    {
-        "city": "Ratan",
-        "area_code": "682",
-        "dialing_code": "+46 682"
-    },
-    {
-        "city": "Rattvik",
-        "area_code": "248",
-        "dialing_code": "+46 248"
-    },
-    {
         "city": "Robertsfors",
         "area_code": "934",
         "dialing_code": "+46 934"
@@ -2003,21 +1293,6 @@
         "city": "Ryd",
         "area_code": "459",
         "dialing_code": "+46 459"
-    },
-    {
-        "city": "Ryney",
-        "area_code": "924",
-        "dialing_code": "+46 924"
-    },
-    {
-        "city": "Rytan",
-        "area_code": "682",
-        "dialing_code": "+46 682"
-    },
-    {
-        "city": "Ryttvik",
-        "area_code": "248",
-        "dialing_code": "+46 248"
     },
     {
         "city": "Rätan",
@@ -2050,11 +1325,6 @@
         "dialing_code": "+46 248"
     },
     {
-        "city": "Saffle",
-        "area_code": "533",
-        "dialing_code": "+46 533"
-    },
-    {
         "city": "Sala",
         "area_code": "224",
         "dialing_code": "+46 224"
@@ -2065,24 +1335,9 @@
         "dialing_code": "+46 224"
     },
     {
-        "city": "Savsjo",
-        "area_code": "382",
-        "dialing_code": "+46 382"
-    },
-    {
         "city": "Simrishamn",
         "area_code": "414",
         "dialing_code": "+46 414"
-    },
-    {
-        "city": "Sjobo",
-        "area_code": "416",
-        "dialing_code": "+46 416"
-    },
-    {
-        "city": "Sjybo",
-        "area_code": "416",
-        "dialing_code": "+46 416"
     },
     {
         "city": "Sjöbo",
@@ -2100,24 +1355,9 @@
         "dialing_code": "+46 511"
     },
     {
-        "city": "Skara-Gytene",
-        "area_code": "511",
-        "dialing_code": "+46 511"
-    },
-    {
         "city": "Skara-Gýtene",
         "area_code": "511",
         "dialing_code": "+46 511"
-    },
-    {
-        "city": "Skelleftea",
-        "area_code": "910",
-        "dialing_code": "+46 910"
-    },
-    {
-        "city": "Skelleftey",
-        "area_code": "910",
-        "dialing_code": "+46 910"
     },
     {
         "city": "Skellefteå",
@@ -2135,16 +1375,6 @@
         "dialing_code": "+46 222"
     },
     {
-        "city": "Skovde",
-        "area_code": "500",
-        "dialing_code": "+46 500"
-    },
-    {
-        "city": "Skyvde",
-        "area_code": "500",
-        "dialing_code": "+46 500"
-    },
-    {
         "city": "Skövde",
         "area_code": "500",
         "dialing_code": "+46 500"
@@ -2155,31 +1385,6 @@
         "dialing_code": "+46 500"
     },
     {
-        "city": "Soderhamn",
-        "area_code": "270",
-        "dialing_code": "+46 270"
-    },
-    {
-        "city": "Soderkoping",
-        "area_code": "121",
-        "dialing_code": "+46 121"
-    },
-    {
-        "city": "Sodertalje",
-        "area_code": "8",
-        "dialing_code": "+46 8"
-    },
-    {
-        "city": "Solleftea",
-        "area_code": "620",
-        "dialing_code": "+46 620"
-    },
-    {
-        "city": "Solleftey",
-        "area_code": "620",
-        "dialing_code": "+46 620"
-    },
-    {
         "city": "Sollefteå",
         "area_code": "620",
         "dialing_code": "+46 620"
@@ -2188,11 +1393,6 @@
         "city": "Sollefteý",
         "area_code": "620",
         "dialing_code": "+46 620"
-    },
-    {
-        "city": "Solvesborg",
-        "area_code": "456",
-        "dialing_code": "+46 456"
     },
     {
         "city": "Sorsele",
@@ -2208,36 +1408,6 @@
         "city": "Storuman",
         "area_code": "951",
         "dialing_code": "+46 951"
-    },
-    {
-        "city": "Strangnas",
-        "area_code": "152",
-        "dialing_code": "+46 152"
-    },
-    {
-        "city": "Stromstad",
-        "area_code": "526",
-        "dialing_code": "+46 526"
-    },
-    {
-        "city": "Stromsund",
-        "area_code": "670",
-        "dialing_code": "+46 670"
-    },
-    {
-        "city": "Strymstad",
-        "area_code": "526",
-        "dialing_code": "+46 526"
-    },
-    {
-        "city": "Strymsund",
-        "area_code": "670",
-        "dialing_code": "+46 670"
-    },
-    {
-        "city": "Stryngnys",
-        "area_code": "152",
-        "dialing_code": "+46 152"
     },
     {
         "city": "Strängnäs",
@@ -2280,11 +1450,6 @@
         "dialing_code": "+46 60"
     },
     {
-        "city": "Sundsvall-Timry",
-        "area_code": "60",
-        "dialing_code": "+46 60"
-    },
-    {
         "city": "Sundsvall-Timrý",
         "area_code": "60",
         "dialing_code": "+46 60"
@@ -2293,11 +1458,6 @@
         "city": "Sunne",
         "area_code": "565",
         "dialing_code": "+46 565"
-    },
-    {
-        "city": "Svardsjo",
-        "area_code": "246",
-        "dialing_code": "+46 246"
     },
     {
         "city": "Sveg",
@@ -2320,11 +1480,6 @@
         "dialing_code": "+46 687"
     },
     {
-        "city": "Svyrdsjy-Enviken",
-        "area_code": "246",
-        "dialing_code": "+46 246"
-    },
-    {
         "city": "Svärdsjö",
         "area_code": "246",
         "dialing_code": "+46 246"
@@ -2335,36 +1490,6 @@
         "dialing_code": "+46 246"
     },
     {
-        "city": "Syderhamn",
-        "area_code": "270",
-        "dialing_code": "+46 270"
-    },
-    {
-        "city": "Syderkyping",
-        "area_code": "121",
-        "dialing_code": "+46 121"
-    },
-    {
-        "city": "Syffle",
-        "area_code": "533",
-        "dialing_code": "+46 533"
-    },
-    {
-        "city": "Sylvesborg-Bromylla",
-        "area_code": "456",
-        "dialing_code": "+46 456"
-    },
-    {
-        "city": "Syssleback",
-        "area_code": "564",
-        "dialing_code": "+46 564"
-    },
-    {
-        "city": "Sysslebyck",
-        "area_code": "564",
-        "dialing_code": "+46 564"
-    },
-    {
         "city": "Sysslebäck",
         "area_code": "564",
         "dialing_code": "+46 564"
@@ -2373,11 +1498,6 @@
         "city": "Sysslebýck",
         "area_code": "564",
         "dialing_code": "+46 564"
-    },
-    {
-        "city": "Syvsjy",
-        "area_code": "382",
-        "dialing_code": "+46 382"
     },
     {
         "city": "Säffle",
@@ -2435,16 +1555,6 @@
         "dialing_code": "+46 382"
     },
     {
-        "city": "Tarnaby",
-        "area_code": "954",
-        "dialing_code": "+46 954"
-    },
-    {
-        "city": "Tarnsjo",
-        "area_code": "292",
-        "dialing_code": "+46 292"
-    },
-    {
         "city": "Tibro",
         "area_code": "504",
         "dialing_code": "+46 504"
@@ -2456,11 +1566,6 @@
     },
     {
         "city": "Tierp",
-        "area_code": "293",
-        "dialing_code": "+46 293"
-    },
-    {
-        "city": "Tierp-Syderfors",
         "area_code": "293",
         "dialing_code": "+46 293"
     },
@@ -2480,29 +1585,14 @@
         "dialing_code": "+46 417"
     },
     {
-        "city": "Toreboda",
-        "area_code": "506",
-        "dialing_code": "+46 506"
-    },
-    {
         "city": "Torpshammar",
         "area_code": "691",
         "dialing_code": "+46 691"
     },
     {
-        "city": "Torsas",
-        "area_code": "486",
-        "dialing_code": "+46 486"
-    },
-    {
         "city": "Torsby",
         "area_code": "560",
         "dialing_code": "+46 560"
-    },
-    {
-        "city": "Torsys",
-        "area_code": "486",
-        "dialing_code": "+46 486"
     },
     {
         "city": "Torsås",
@@ -2513,16 +1603,6 @@
         "city": "Torsýs",
         "area_code": "486",
         "dialing_code": "+46 486"
-    },
-    {
-        "city": "Tranas",
-        "area_code": "140",
-        "dialing_code": "+46 140"
-    },
-    {
-        "city": "Tranys",
-        "area_code": "140",
-        "dialing_code": "+46 140"
     },
     {
         "city": "Tranås",
@@ -2540,16 +1620,6 @@
         "dialing_code": "+46 410"
     },
     {
-        "city": "Trollhattan",
-        "area_code": "520",
-        "dialing_code": "+46 520"
-    },
-    {
-        "city": "Trollhyttan",
-        "area_code": "520",
-        "dialing_code": "+46 520"
-    },
-    {
         "city": "Trollhättan",
         "area_code": "520",
         "dialing_code": "+46 520"
@@ -2565,29 +1635,9 @@
         "dialing_code": "+46 156"
     },
     {
-        "city": "Trosa-Vagnhyrad",
-        "area_code": "156",
-        "dialing_code": "+46 156"
-    },
-    {
         "city": "Trosa-Vagnhýrad",
         "area_code": "156",
         "dialing_code": "+46 156"
-    },
-    {
-        "city": "Tyreboda-Hova",
-        "area_code": "506",
-        "dialing_code": "+46 506"
-    },
-    {
-        "city": "Tyrnaby",
-        "area_code": "954",
-        "dialing_code": "+46 954"
-    },
-    {
-        "city": "Tyrnsjy-ystervyla",
-        "area_code": "292",
-        "dialing_code": "+46 292"
     },
     {
         "city": "Tärnaby",
@@ -2625,16 +1675,6 @@
         "dialing_code": "+46 522"
     },
     {
-        "city": "Ullanger",
-        "area_code": "613",
-        "dialing_code": "+46 613"
-    },
-    {
-        "city": "Ullynger",
-        "area_code": "613",
-        "dialing_code": "+46 613"
-    },
-    {
         "city": "Ullånger",
         "area_code": "613",
         "dialing_code": "+46 613"
@@ -2648,16 +1688,6 @@
         "city": "Ulricehamn",
         "area_code": "321",
         "dialing_code": "+46 321"
-    },
-    {
-        "city": "Umea",
-        "area_code": "90",
-        "dialing_code": "+46 90"
-    },
-    {
-        "city": "Umey",
-        "area_code": "90",
-        "dialing_code": "+46 90"
     },
     {
         "city": "Umeå",
@@ -2690,16 +1720,6 @@
         "dialing_code": "+46 123"
     },
     {
-        "city": "Vanersborg",
-        "area_code": "521",
-        "dialing_code": "+46 521"
-    },
-    {
-        "city": "Vannas",
-        "area_code": "935",
-        "dialing_code": "+46 935"
-    },
-    {
         "city": "Vansbro",
         "area_code": "281",
         "dialing_code": "+46 281"
@@ -2718,26 +1738,6 @@
         "city": "Varberg",
         "area_code": "340",
         "dialing_code": "+46 340"
-    },
-    {
-        "city": "Varnamo",
-        "area_code": "370",
-        "dialing_code": "+46 370"
-    },
-    {
-        "city": "Vasteras",
-        "area_code": "21",
-        "dialing_code": "+46 21"
-    },
-    {
-        "city": "Vastervik",
-        "area_code": "490",
-        "dialing_code": "+46 490"
-    },
-    {
-        "city": "Vaxjo",
-        "area_code": "470",
-        "dialing_code": "+46 470"
     },
     {
         "city": "Vetlanda",
@@ -2765,16 +1765,6 @@
         "dialing_code": "+46 933"
     },
     {
-        "city": "Vingaker",
-        "area_code": "151",
-        "dialing_code": "+46 151"
-    },
-    {
-        "city": "Vingyker",
-        "area_code": "151",
-        "dialing_code": "+46 151"
-    },
-    {
         "city": "Vingåker",
         "area_code": "151",
         "dialing_code": "+46 151"
@@ -2793,36 +1783,6 @@
         "city": "Vuollerim",
         "area_code": "976",
         "dialing_code": "+46 976"
-    },
-    {
-        "city": "Vynersborg",
-        "area_code": "521",
-        "dialing_code": "+46 521"
-    },
-    {
-        "city": "Vynnys",
-        "area_code": "935",
-        "dialing_code": "+46 935"
-    },
-    {
-        "city": "Vyrnamo",
-        "area_code": "370",
-        "dialing_code": "+46 370"
-    },
-    {
-        "city": "Vystervik",
-        "area_code": "490",
-        "dialing_code": "+46 490"
-    },
-    {
-        "city": "Vysterys",
-        "area_code": "21",
-        "dialing_code": "+46 21"
-    },
-    {
-        "city": "Vyxjy",
-        "area_code": "470",
-        "dialing_code": "+46 470"
     },
     {
         "city": "Vänersborg",
@@ -2888,106 +1848,6 @@
         "city": "Ystad",
         "area_code": "411",
         "dialing_code": "+46 411"
-    },
-    {
-        "city": "ydeshyg",
-        "area_code": "144",
-        "dialing_code": "+46 144"
-    },
-    {
-        "city": "yland",
-        "area_code": "485",
-        "dialing_code": "+46 485"
-    },
-    {
-        "city": "ylmhult",
-        "area_code": "476",
-        "dialing_code": "+46 476"
-    },
-    {
-        "city": "ylvdalen",
-        "area_code": "251",
-        "dialing_code": "+46 251"
-    },
-    {
-        "city": "ylvsbyn",
-        "area_code": "929",
-        "dialing_code": "+46 929"
-    },
-    {
-        "city": "ymyl",
-        "area_code": "532",
-        "dialing_code": "+46 532"
-    },
-    {
-        "city": "ynge",
-        "area_code": "690",
-        "dialing_code": "+46 690"
-    },
-    {
-        "city": "yngelholm-Bystad",
-        "area_code": "431",
-        "dialing_code": "+46 431"
-    },
-    {
-        "city": "yrbyhus-Dannemora",
-        "area_code": "295",
-        "dialing_code": "+46 295"
-    },
-    {
-        "city": "yre-Jyrpen",
-        "area_code": "647",
-        "dialing_code": "+46 647"
-    },
-    {
-        "city": "yrebro-Kumla",
-        "area_code": "19",
-        "dialing_code": "+46 19"
-    },
-    {
-        "city": "yregrund-ysthammar",
-        "area_code": "173",
-        "dialing_code": "+46 173"
-    },
-    {
-        "city": "yrjyng",
-        "area_code": "573",
-        "dialing_code": "+46 573"
-    },
-    {
-        "city": "yrnskyldsvik",
-        "area_code": "660",
-        "dialing_code": "+46 660"
-    },
-    {
-        "city": "yseda-Lenhovda",
-        "area_code": "474",
-        "dialing_code": "+46 474"
-    },
-    {
-        "city": "ysele",
-        "area_code": "941",
-        "dialing_code": "+46 941"
-    },
-    {
-        "city": "ystersund",
-        "area_code": "63",
-        "dialing_code": "+46 63"
-    },
-    {
-        "city": "ytvidaberg",
-        "area_code": "120",
-        "dialing_code": "+46 120"
-    },
-    {
-        "city": "yverkalix",
-        "area_code": "926",
-        "dialing_code": "+46 926"
-    },
-    {
-        "city": "yvertorney",
-        "area_code": "927",
-        "dialing_code": "+46 927"
     },
     {
         "city": "Älmhult",

@@ -10,7 +10,7 @@
         "dialing_code": "+1 450"
     },
     {
-        "city": "Levis",
+        "city": "Lévis",
         "area_code": "418",
         "dialing_code": "+1 418"
     },
@@ -18,16 +18,6 @@
         "city": "Longueuil",
         "area_code": "450",
         "dialing_code": "+1 450"
-    },
-    {
-        "city": "Lévis",
-        "area_code": "418",
-        "dialing_code": "+1 418"
-    },
-    {
-        "city": "Montreal",
-        "area_code": "438",
-        "dialing_code": "+1 438"
     },
     {
         "city": "Montréal",
@@ -53,11 +43,6 @@
         "city": "Tracy",
         "area_code": "209",
         "dialing_code": "+1 209"
-    },
-    {
-        "city": "Trois Rivieres",
-        "area_code": "819",
-        "dialing_code": "+1 819"
     },
     {
         "city": "Trois Rivières",

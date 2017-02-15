@@ -1,6 +1,6 @@
 {
   "name": "dialcodes",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Area codes in the package will help you to complete a local phone number to international format",
   "main": "index.js",
   "scripts": {
@@ -20,8 +20,8 @@
   "author": "Vitaly Nikitin (vit.nikitin@gmail.com)",
   "license": "MIT",
   "dependencies": {
-    "country-mapper": "^1.0.6",
-    "transliteration": "^1.3.0"
+    "country-mapper": "^1.0.10",
+    "transliteration": "^1.5.3"
   },
   "devDependencies": {
     "async": "^2.1.2",

@@ -41,6 +41,10 @@ Via [npm](https://www.npmjs.com/package/dialcodes):
     dialcodes.getAreaCode('Belarus', 'Minsk'); // 17
 ```
 
+### Last data update
+
+2017/05/19
+
 ## License
 
 Formidable is licensed under the MIT license.

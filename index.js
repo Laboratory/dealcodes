@@ -34,9 +34,17 @@ let _findData = (country, city) => {
       // stateCapital and state contains in USA regions
       let stateCapital = item.state_capital || ''
       let state = item.state || ''
-      return name && new RegExp(name, 'i').test(city) ||
-        stateCapital && new RegExp(stateCapital, 'i').test(city) ||
-        state && new RegExp(state, 'i').test(city)
+      // stage 0 matching by name
+      let res = city == name.toLowerCase() || city == stateCapital.toLowerCase() || city == state.toLowerCase();
+      if (!!res) return res
+      // stage 1 matching by name using regexp
+      try {
+        return name && new RegExp(name, 'i').test(city) ||
+          stateCapital && new RegExp(stateCapital, 'i').test(city) ||
+          state && new RegExp(state, 'i').test(city)
+      } catch (err) {
+        return null
+      }
     })
     if (data) {
       return (data)

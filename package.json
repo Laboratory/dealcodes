@@ -23,24 +23,19 @@
   "author": "Vitaly Nikitin (vit.nikitin@gmail.com)",
   "license": "MIT",
   "dependencies": {
-    "async": "^2.4.0",
-    "country-mapper": "^1.0.11",
-    "csvtojson": "^1.1.5",
-    "lodash": "^4.17.4",
-    "mocha": "^3.4.1",
-    "request": "^2.81.0",
+    "country-mapper": "^1.2.0",
     "transliteration": "^1.6.2"
   },
   "devDependencies": {
-    "async": "^2.1.2",
+    "async": "^2.6.0",
     "chai": "^3.5.0",
     "cheerio": "^0.22.0",
-    "csvtojson": "^1.0.3",
+    "csvtojson": "^1.1.9",
     "encoding": "^0.1.12",
     "fs-path": "0.0.22",
-    "lodash": "^4.16.4",
-    "mocha": "^3.0.2",
-    "request": "^2.75.0",
+    "lodash": "^4.17.4",
+    "mocha": "^3.5.3",
+    "request": "^2.83.0",
     "string": "^3.3.3"
   }
 }

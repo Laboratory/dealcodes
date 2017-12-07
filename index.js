@@ -39,9 +39,9 @@ let _findData = (country, city) => {
       if (!!res) return res
       // stage 1 matching by name using regexp
       try {
-        return name && new RegExp(name, 'i').test(city) ||
-          stateCapital && new RegExp(stateCapital, 'i').test(city) ||
-          state && new RegExp(state, 'i').test(city)
+        return name && new RegExp(city, 'i').test(name) ||
+          stateCapital && new RegExp(city, 'i').test(stateCapital) ||
+          state && new RegExp(city, 'i').test(state)
       } catch (err) {
         return null
       }

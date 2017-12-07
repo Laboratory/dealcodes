@@ -29,6 +29,8 @@ describe('dialcodes', () => {
       assert.equal('+7', dialcodes.getDialingCode('Russia', 'Unknown city'))
       assert.equal(null, dialcodes.getDialingCode('Unknown'))
       assert.equal(null, dialcodes.getDialingCode())
+      assert.equal('+52 55', dialcodes.getDialingCode('Mexico', 'Mexico City'))
+      assert.equal('+52 55', dialcodes.getDialingCode('Mexico', 'Mexico'))
     })
   })
 

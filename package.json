@@ -23,7 +23,7 @@
   "author": "Vitaly Nikitin (vit.nikitin@gmail.com)",
   "license": "MIT",
   "dependencies": {
-    "country-mapper": "^1.2.0",
+    "country-mapper": "^1.2.1",
     "transliteration": "^1.6.2"
   },
   "devDependencies": {

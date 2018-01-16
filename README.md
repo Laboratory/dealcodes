@@ -43,7 +43,7 @@ Via [npm](https://www.npmjs.com/package/dialcodes):
 
 ### Last data update
 
-2017/07/19
+2018/01/16
 
 ## License
 

@@ -41,9 +41,9 @@ Via [npm](https://www.npmjs.com/package/dialcodes):
     dialcodes.getAreaCode('Belarus', 'Minsk'); // 17
 ```
 
-### Last data update
+### Last content data was updated
 
-2018/01/16
+2018/04/05
 
 ## License
 

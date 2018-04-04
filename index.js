@@ -1,6 +1,6 @@
 const countryMapper = require('country-mapper')
-const mapperData = require('./content/mapper.json')
 const country = require('country-data')
+const mapperData = require('./content/mapper.json')
 const lookup = country.lookup
 
 let getAreaCode = (country, city) => {
@@ -20,7 +20,7 @@ let getDialingCode = (country, city) => {
   })
   let ref = countries[0]
   return (ref != null ? ref.countryCallingCodes[0] : null)
-};
+}
 
 let _findData = (country, city) => {
   if (!city || !country) return (null)
@@ -35,7 +35,7 @@ let _findData = (country, city) => {
       let stateCapital = item.state_capital || ''
       let state = item.state || ''
       // stage 0 matching by name
-      let res = city == name.toLowerCase() || city == stateCapital.toLowerCase() || city == state.toLowerCase();
+      let res = city == name.toLowerCase() || city == stateCapital.toLowerCase() || city == state.toLowerCase()
       if (!!res) return res
       // stage 1 matching by name using regexp
       try {

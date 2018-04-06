@@ -18,7 +18,7 @@ Via [npm](https://www.npmjs.com/package/dialcodes):
 #### :getDialingCode
 
 ```javascript
-    var dialcodes = require('dialcodes');
+    const dialcodes = require('dialcodes');
 
     //get dialing code
     dialcodes.getDialingCode('Russia', 'Moscow'); // +7 495
@@ -33,7 +33,7 @@ Via [npm](https://www.npmjs.com/package/dialcodes):
 #### :getAreaCode
 
 ```javascript
-    var dialcodes = require('dialcodes');
+    const dialcodes = require('dialcodes');
 
     //get dialing code
     dialcodes.getAreaCode('Russia', 'Moscow'); // 495
@@ -41,9 +41,29 @@ Via [npm](https://www.npmjs.com/package/dialcodes):
     dialcodes.getAreaCode('Belarus', 'Minsk'); // 17
 ```
 
+#### :getLocationByAreaCode
+get location by area code or phone|mobile number
+```javascript
+    const dialcodes = require('dialcodes')
+    dialcodes.getLocationByAreaCode('+1 614 xxxxx', 'USA')
+```
+Result
+```javascript
+[ { state_capital: 'Columbus',
+    area_code: '614',
+    dialing_code: '+1 614',
+    state: 'Ohio' },
+  { city: 'Columbus', area_code: '614', dialing_code: '+1 614' },
+  { city: 'Dublin', area_code: '614', dialing_code: '+1 614' },
+  { city: 'Grove City', area_code: '614', dialing_code: '+1 614' },
+  { city: 'Reynoldsburg',
+    area_code: '614',
+    dialing_code: '+1 614' },
+  { city: 'Westerville', area_code: '614', dialing_code: '+1 614' } ]
+````
 ### Last data update
 
-2018/01/16
+2018/04/06
 
 ## License
 

@@ -1,11 +1,12 @@
 const chai = require('chai')
 const assert = chai.assert
 const dialcodes = require('../index')
+const mocha = require('mocha')
 
-describe('dialcodes', () => {
+mocha.describe('dialcodes', () => {
 
-  describe('get area code', () => {
-    it('should return area code by Country and City name', () => {
+  mocha.describe('area code', () => {
+    mocha.it('should return area code by Country and City name', () => {
       assert.equal(495, dialcodes.getAreaCode('Russia', 'Moscow'))
       assert.equal(916, dialcodes.getAreaCode('United States', 'California'))
       assert.equal(805, dialcodes.getAreaCode('United States', 'santa barbara'))
@@ -14,11 +15,11 @@ describe('dialcodes', () => {
       assert.equal(812, dialcodes.getAreaCode('Russia', 'St. Petersburg'))
       assert.equal(null, dialcodes.getAreaCode('Unknown'))
       assert.equal(null, dialcodes.getAreaCode())
-    });
-  });
+    })
+  })
 
-  describe('get dialing code', () => {
-    it('should return dialing code by Country and City name', () => {
+  mocha.describe('dialing code', () => {
+    mocha.it('should return dialing code by Country and City name', () => {
       assert.equal('+7 495', dialcodes.getDialingCode('Russia', 'Moscow'))
       assert.equal('+1 916', dialcodes.getDialingCode('United States', 'California'))
       assert.equal('+1 805', dialcodes.getDialingCode('United States', 'santa barbara'))
@@ -31,6 +32,27 @@ describe('dialcodes', () => {
       assert.equal(null, dialcodes.getDialingCode())
       assert.equal('+52 55', dialcodes.getDialingCode('Mexico', 'Mexico City'))
       assert.equal('+52 55', dialcodes.getDialingCode('Mexico', 'Mexico'))
+    })
+  })
+
+  mocha.describe('location by area code or phone', () => {
+    mocha.it('should has data', () => {
+      let data = dialcodes.getLocationByAreaCode('+1 614 xxxxx', 'US')
+      assert.isAbove(data.length, 0)
+      let ohioState = data[0]
+      assert.equal(ohioState.state_capital, 'Columbus')
+      assert.equal(ohioState.area_code, '614')
+      assert.equal(ohioState.state, 'Ohio')
+      let ohioLocation = data[1]
+      assert.equal(ohioLocation.city, 'Columbus')
+      assert.equal(ohioLocation.area_code, '614')
+
+      data = dialcodes.getLocationByAreaCode('614', 'US')
+      assert.isAbove(data.length, 0)
+      ohioState = data[0]
+      assert.equal(ohioState.state_capital, 'Columbus')
+      assert.equal(ohioState.area_code, '614')
+      assert.equal(ohioState.state, 'Ohio')
     })
   })
 
